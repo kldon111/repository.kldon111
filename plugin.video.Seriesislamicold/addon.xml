@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.Seriesislamicold" 
+name="Series islamic old"  
+version="1.0.0" 
+provider-name="by:mfaraj,kldon">
+    <requires>
+    <import addon="xbmc.python" version="2.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Series islamic old full update 3/6/2015</summary>
+    <language></language>
+    <description lang="en">Series islamic old full movies  from youtube</description>
+  </extension>
+</addon>

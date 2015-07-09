@@ -1,0 +1,14 @@
+
+column==1
+sortorder==1
+plugin_id==plugin.video.Qurantochildren
+section==arabic
+subsection==general
+appversion==4
+version==1.0.0
+plugin_title==Quran To Children
+plugin_label==Quran To Children version==1.0.0 tunisia-sat.com
+group_index==7
+unicode_str==
+playlist==False
+symlink==False

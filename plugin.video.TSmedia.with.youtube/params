@@ -1,0 +1,13 @@
+
+column==3
+sortorder==1
+plugin_id==plugin.video.TSmedia.with.youtube
+section==youtube
+subsection==general
+appversion==4
+version==2.0.0
+plugin_title==TSmedia.with.youtube
+plugin_label==TSmedia.with.youtube version==2.0.0 AddonScriptorDE
+playstr==mode=playVideo
+group_index==5
+unicode_str==

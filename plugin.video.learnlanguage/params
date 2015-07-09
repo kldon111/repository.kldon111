@@ -1,0 +1,15 @@
+
+column==1
+sortorder==1
+plugin_id==plugin.video.learnlanguage
+section==arabic
+subsection==general
+appversion==4
+version==1.0.2
+plugin_title==learn language full
+plugin_label==learn language movies version==1.0.2 by:mfaraj,kldon
+group_index==7
+unicode_str==
+playlist==False
+symlink==False
+playstr==mode=1004

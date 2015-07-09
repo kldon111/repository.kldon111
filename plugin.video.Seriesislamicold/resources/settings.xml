@@ -1,0 +1,12 @@
+<settings>
+	<category label="sortby">
+        <setting id="sort" type="labelenum" label="Sort"
+                 values="most_popular|top_rated|recently_featured" default="recently_featured"/>
+        
+        
+
+   </category>
+ 
+
+
+</settings>
