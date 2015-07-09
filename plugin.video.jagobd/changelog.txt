@@ -1,0 +1,23 @@
+[B]Version 1.0[/B]
+- First version 1
+[B]Version 1.0.1[/B]
+- revised
+[B]Version 1.0.2[/B]
+- revised with one bug fixed
+
+B]Version 1.0.3[/B]
+- revised with one bug fixed
+
+[B]Version 1.0.4[/B]
+- Gotham dependencies
+
+[B]Version 1.0.4[/B]
+- recent key changes
+[B]Version 1.0.6[/B]
+- mobile access
+[B]Version 1.0.7[/B]
+- changed url
+[B]Version 1.0.8[/B]
+- icon changed
+[B]Version 1.0.9[/B]
+- fixed play

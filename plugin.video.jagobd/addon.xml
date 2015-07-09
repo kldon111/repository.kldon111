@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.jagobd"
+       name="JagoBD.com"
+       version="1.0.9"
+       provider-name="shani updated 7/4/2015 by by:mfaraj,kldon">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+     
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>jagobd.com XBMC Client</summary>
+    <description>Watch jagobd.com on your XBMC. This plugin fetches the video sources from jagobd.com and play on XBMC compatible plateforms</description>
+    <platform>all</platform>
+  </extension>
+</addon>

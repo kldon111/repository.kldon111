@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="plugin.video.arab,Collection"
+  version="1.0.1"
+  name="arab collection youtube from the World arabian"
+  provider-name="made by mfaraj,kldon update 3-7-2015">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.buggalo" version="1.1.2"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Addon made by mfaraj,kldon update 3-7-2015</summary>
+    <description>full collection youtube from the World arabian tv,ramadan series,movie,music,sports,education,Documentary,babies,Kitchen,fun</description>
+   
+    <platform>all</platform>
+  </extension>
+</addon>

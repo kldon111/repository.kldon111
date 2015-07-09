@@ -1,0 +1,15 @@
+
+column==1
+sortorder==1
+plugin_id==plugin.video.arab,Collection
+section==arabic
+subsection==general
+appversion==4
+version==1.0.1
+plugin_title==arab Collection
+plugin_label==full collection youtube from the World arabian tv,ramadan series,movie,music,sports,education,Documentary,babies,Kitchen,fun version==1.0.1 made by mfaraj,kldon
+group_index==7
+unicode_str==
+playlist==False
+symlink==False
+playstr==mode=1004
