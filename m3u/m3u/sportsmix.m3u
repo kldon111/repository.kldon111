@@ -1,0 +1,3202 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR green] --Updated 10/07/15 @ 12:50am made by:mfaraj,kldon--[/COLOR]   
+https://www.youtube.com/watch?v=P6CobLkKuEU
+#EXTINF:-1, [COLOR green] --Updated from www.dreamoem.com$www.tunisia-sat.com--[/COLOR]  
+https://www.youtube.com/watch?v=bkCgM9GHcWI
+version=2
+#EXTINF:0,eurosport ru_2
+http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8
+#EXTINF:0,NTV SPORT
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8?version=2 
+#EXTINF:0,NTV SPORT
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/bw480000/variant.m3u8?version=2 
+#EXTINF:0,NTV PLUS FUTBOL
+http://46.61.226.18/hls/CH_NTVPLUSPORT/bw1500000/variant.m3u8?version=2 
+#EXTINF:0,NTV PLUS SPORT
+http://yayinlar.tvizleyim.com/org2/ntvplussport_me/playlist.m3u8 
+#EXTINF:0,NTV PLUS BASKET
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/variant.m3u8?
+
+version=2 
+#EXTINF:0,NTV BASKETBOL
+http://yayinlar.tvizleyim.com/org8/ntvplusbasketbol_me/playlist.m3u8 
+#EXTINF:0,NTV NASH FUTBOL
+http://yayinlar.tvizleyim.com/org4/nashfutbol_me/playlist.m3u8 
+#EXTINF:0,NTV TENNIS
+http://yayinlar.tvizleyim.com/org8/ntvplustennis_me/playlist.m3u8
+#EXTINF:0,CHANNEL KHL
+http://edge.ailetv.net/org15/telekanalkxl_me/playlist.m3u8 
+#EXTINF:0,VIASAT SPORT
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8?version=2 
+#EXTINF:0,VIASAT SPORT HD
+http://46.61.226.18/hls/CH_C06_VIASATSPORTHD/bw3000000/variant.m3u8?
+
+version=2 
+#EXTINF:0,VIASAT SPORT HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/variant.m3u8?
+
+version=2 
+#EXTINF:0,VIASAT SPORT HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/bw3000000/variant.
+
+m3u8?version=2 
+#EXTINF:0,VIASAT GOLF HD
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C06_VIASATGOLFHD/variant.m3u8?
+
+version=2 
+#EXTINF:0,VIASAT GOLF H,
+http://46.61.226.18/hls/CH_C06_VIASATGOLFHD/bw3000000/variant.m3u8?
+
+version=2
+#EXTINF:0,EUROSPORT
+http://91.193.124.5:8000/eurosport 
+#EXTINF:0,EUROSPORT
+http://91.193.124.5:8000/eurosport2 
+#EXTINF:0,EUROSPORT
+http://yayinlar.tvizleyim.com/org16/eurosportrus_me/playlist.m3u8 
+#EXTINF:0,EUROSPORT 2
+http://yayinlar.tvizleyim.com/org9/eurosport2_me/playlist.m3u8 
+#EXTINF:0,EUROSPORT
+http://android-hd.izletv.mobi:80/org16/eurosportrus_me/chunks.m3u8 
+#EXTINF:0,EUROSPORT 2
+http://android-hd.izletv.mobi:80/org9/eurosport2_me/chunks.m3u8 
+#EXTINF:0,EUROSPORT HD
+http://46.61.226.18/hls/CH_C02_EUROSPORTHD/bw3000000/variant.m3u8?
+
+version=2 
+#EXTINF:0,EUROSPORT HD
+http://esioslive6-
+
+i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8 
+#EXTINF:0,EUROSPORT
+http://esioslive6-
+
+i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8 
+#EXTINF:0,EUROSPORT
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2 
+#EXTINF:0,EUROSPORT 2
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2 
+#EXTINF:0,EUROSPORT
+http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8 
+#EXTINF:0,EUROSPORT 2
+http://edge.ailetv.net/org9/eurosport2_me/playlist.m3u8 
+#EXTINF:0,EUROSPORT
+http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/141/index.m3u8 
+#EXTINF:0,EUROSPORT RU
+http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8 
+#EXTINF:0,EUROSPORT2 RU
+http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8 
+#EXTINF:0,MBC SPORT HD 1
+http://intigral_live-
+
+lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8 
+#EXTINF:0,MBC SPORT HD 3
+http://intigral_live-
+
+lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_av-b.m3u8 
+#EXTINF:0,MBC PROSPORT1
+http://intigral_live-
+
+lh.akamaihd.net/i/DPS3SPLITDXRAD150315_1@129126/index_512_av-p.m3u8?
+
+sd=10&rebase=on 
+#EXTINF:0,MBC PROSPORT2
+http://intigral_live-
+
+lh.akamaihd.net/i/DPS3SPLFTHXTWN070315_1@129126/index_1200_av-b.m3u8?
+
+sd=10&rebase=on 
+#EXTINF:0,MBC PROSPORT3
+http://intigral_live-
+
+lh.akamaihd.net/i/ITALYEPDPS3KCCSHBXDUR100315_1@301567/index_1200_av-
+
+b.m3u8?sd=10&rebase=on
+#EXTINF:0,POLSAT SPORT
+http://95.215.233.11:4022/udp/239.255.2.8:1234
+#EXTINF:0,FUTBOL1 HD
+http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2 
+#EXTINF:0,FUTBOL2 HD
+http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2 
+#EXTINF:0,FUTBOL3 HD
+http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2 
+#EXTINF:0,FUTBOL TV
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8 
+#EXTINF:0,FUTBOL TV
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8? 
+#EXTINF:0,FUTBOL TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_FUTBALL/variant.m3u8?version=2
+#EXTINF:0,sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?
+
+sd=10&rebase=on
+#EXTINF:0,srf 2
+http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?
+
+sd=10&rebase=on
+#EXTINF:0,rts2 ch
+http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?
+
+sd=10&rebase=on
+#EXTINF:0,rsi la 2 ch
+http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?
+
+sd=10&rebase=on
+#EXTINF:0,france 2
+http://streaming-hub.com/tv/i/france2_1@97347/index_1300_av-b.m3u8?
+
+sd=10&rebase=on
+
+
+#EXTINF:0, SKY MOVIES PREMIERE
+http://136.243.12.170/sky_moviespremiere_gb.m3u8
+#EXTINF:0, DISNEY CHANNEL UK
+http://136.243.12.170/disney_channel_gb.m3u8
+#EXTINF:0, NICKELODEON UK
+http://136.243.12.170/nickelodeon_gb.m3u8
+#EXTINF:0, SKY ONE
+http://136.243.12.170/sky_one_gb.m3u8
+
+#EXTINF:-1,???
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1,RUSSIA 1
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:-1,RUSSIA1 HD
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2
+#EXTINF:-1,NTV
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_NTV/variant.m3u8?version=2
+#EXTINF:-1,RENT TV
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_RENTV/variant.m3u8?version=2
+#EXTINF:0,TRB2
+http://s1.edem.tv/iptv/TRB2UWBSCQMNUG/506/index.m3u8
+#EXTINF:-1,STS
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_STS/variant.m3u8?version=2
+#EXTINF:-1,Euronews
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_EURONEWS/variant.m3u8?version=2
+#EXTINF:-1,MIR24
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_MIR24/variant.m3u8?version=2
+#EXTINF:-1,BRC
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_BRC/variant.m3u8?version=2
+#EXTINF:-1,RUSSIA24
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_RUSSIA24/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_NATGEOWILD/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild HD
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_C03_NATGEOWILDHD/variant.m3u8?
+
+version=2
+#EXTINF:-1,Discovery World
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_DISCOVERYWORLD/variant.m3u8?
+
+version=2
+#EXTINF:-1,Discovery Science
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_DISCOVERYSCIENCE/variant.m3u8?
+
+version=2
+#EXTINF:-1,Discovery Science HD
+http://hlsstr03-svc-
+
+iptv.ch.ma/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_ANIMALPLANET/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet HD
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?
+
+version=2
+#EXTINF:-1,Discovery Channel
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_DISCOVERYCHANNEL/variant.m3u8?
+
+version=2
+#EXTINF:-1,Discovery Channel HD
+http://hlsstr03-svc-
+
+iptv.ch.ma/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,????? 24
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_24TEHNO/variant.m3u8?version=2
+#EXTINF:-1,History
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:-1,History HD
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_C05_HDHISTORY/variant.m3u8?version=2
+#EXTINF:-1,English club TV
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_ENGLISHCLUB/variant.m3u8?version=2
+#EXTINF:-1,???
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,TV 1000
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_TV1000/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Action
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_TV1000ACTION/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Comedy HD
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?
+
+version=2
+#EXTINF:-1,TV 1000 Megahit HD
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?
+
+version=2
+#EXTINF:-1,TV 1000 Premium HD
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?
+
+version=2
+#EXTINF:-1,TV 1000 ??????? ????
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_TV1000RUS/variant.m3u8?version=2
+#EXTINF:-1,EUROPA PLUS TV
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
+#EXTINF:-1,??
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_MUZTV/variant.m3u8?version=2
+#EXTINF:-1,MTV
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_MTV/variant.m3u8?version=2
+#EXTINF:-1,MTV Dance
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_MTVDANCE/variant.m3u8?version=2
+#EXTINF:-1,MTV Hits
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_MTVHITS/variant.m3u8?version=2
+#EXTINF:-1,MTV Live HD
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_C03_MTVLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,RUSONG TV
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_RUSONGTV/variant.m3u8?version=2
+#EXTINF:-1,MUSICBOX
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_MUSICBOXTV/variant.m3u8?version=2
+#EXTINF:-1,RUSSIAN MUSICBOX
+http://hlsstr03-svc-iptv.ch.ma/hls/CH_MUSICBOXRU/variant.m3u8?version=2
+
+
+
+#EXTINF:0,Disc. World 
+http://ift.tt/1CiXw6s
+#EXTINF:0,Disc. Sc. 
+http://ift.tt/1S09gMS
+#EXTINF:0,AMC 
+http://ift.tt/1S09fsg
+#EXTINF:0,CBS Reality 
+http://ift.tt/1CiXw6u
+#EXTINF:0,Extreme Sports 
+http://ift.tt/1S09fsi
+#EXTINF:0,Jim Jam 
+http://ift.tt/1CiXvj1
+#EXTINF:0,Disc. Ch. 
+http://ift.tt/1S09h36
+#EXTINF:0,Nick Jr. 
+http://ift.tt/1CiXyer
+#EXTINF:0,Animal Planet 
+http://ift.tt/1S09h38
+#EXTINF:0,Eurosport 
+http://ift.tt/1S09h3c
+#EXTINF:0,Nat Geo Wild 
+http://ift.tt/1CiXyet
+#EXTINF:0,NGC 
+http://ift.tt/1S09fIy
+#EXTINF:0,Fox 
+http://ift.tt/1S09fIA
+#EXTINF:0,Fox Life 
+http://ift.tt/1S09h3e
+#EXTINF:0,Fine Living 
+http://ift.tt/1S09fIG
+#EXTINF:0,Al Jazeera
+http://ift.tt/1CiXyeB
+#EXTINF:0,CCTV News
+http://ift.tt/1S09h3i
+#EXTINF:0,WF HD
+http://ift.tt/1CiXwmQ
+#EXTINF:0,DW
+http://ift.tt/1S09h3k
+#EXTINF:0,Rai Sport2
+http://ift.tt/1S09h3o
+#EXTINF:0,France 24
+http://ift.tt/1CiXwmS
+#EXTINF:0,France 24 
+http://ift.tt/1S09fII
+#EXTINF:0,Bloomberg
+http://ift.tt/1CiXwmV
+#EXTINF:0,TV5 Monde FBS
+http://ift.tt/1CiXyeH
+#EXTINF:0,Tv5 Monde Europe
+http://ift.tt/1CiXwmX
+#EXTINF:0,NHK World
+http://ift.tt/1CiXyuV
+
+
+#EXTINF:0,TV 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3168.ts
+#EXTINF:0,TK Tuzla
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3164.ts
+#EXTINF:0,SOS
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3191.ts
+#EXTINF:0,RTRS
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3190.ts
+#EXTINF:0,RTL Kockica
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3167.ts
+#EXTINF:0,RTL 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3166.ts
+#EXTINF:0,Pink Sci-Fi & Fantasy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3201.ts
+#EXTINF:0,Pink Romance
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3200.ts
+#EXTINF:0,Pink Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3198.ts
+#EXTINF:0,Pink Film
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3199.ts
+#EXTINF:0,OTV Test
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3172.ts
+#EXTINF:0,Nova RS
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3169.ts
+#EXTINF:0,N1 Bosna
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3197.ts
+#EXTINF:0,MTV Igman
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3195.ts
+#EXTINF:0,MTV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3170.ts
+#EXTINF:0,Mini TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3177.ts
+#EXTINF:0,M1 Film
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3179.ts
+#EXTINF:0,Lov I Ribolov
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3196.ts
+#EXTINF:0,Klasik TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3194.ts
+#EXTINF:0,Kids Mix 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3176.ts
+#EXTINF:0,Hayat Folk
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3163.ts
+#EXTINF:0,Hayat
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3162.ts
+#EXTINF:0,Happy TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3192.ts
+#EXTINF:0,FTV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3161.ts
+#EXTINF:0,Film Mix
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3181.ts
+#EXTINF:0,Fight Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3187.ts
+#EXTINF:0,Face TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3165.ts
+#EXTINF:0,Duga TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3193.ts
+#EXTINF:0,DM Sat
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3173.ts
+#EXTINF:0,CMC Music
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3171.ts
+#EXTINF:0,CineStar TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3180.ts
+#EXTINF:0,BN Sat
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3175.ts
+#EXTINF:0,BN Music
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3174.ts
+#EXTINF:0,ATV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3188.ts
+#EXTINF:0,ArenaSport 5 SRB
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3186.ts
+#EXTINF:0,ArenaSport 4 SRB
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3185.ts
+#EXTINF:0,ArenaSport 3 SRB
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3184.ts
+#EXTINF:0,ArenaSport 2 SRB
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3183.ts
+#EXTINF:0,ArenaSport 1 SRB
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3182.ts
+#EXTINF:0,Animal Planet
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3178.ts
+#EXTINF:0,AL Jazeera
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3189.ts
+#EXTINF:0,SportKlub 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1442.ts
+#EXTINF:0,SportKlub 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1441.ts
+#EXTINF:0,SportKlub 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1440.ts
+#EXTINF:0,RTS 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1464.ts
+#EXTINF:0,RTS 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1463.ts
+#EXTINF:0,RTL
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1461.ts
+#EXTINF:0,Prva TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1460.ts
+#EXTINF:0,Prva Srbska
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2026.ts
+#EXTINF:0,Prva Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1459.ts
+#EXTINF:0,Pink Zabava
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2028.ts
+#EXTINF:0,Pink Western
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2050.ts
+#EXTINF:0,Pink Thriller
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2040.ts
+#EXTINF:0,Pink Soap
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2049.ts
+#EXTINF:0,Pink Sci-fi & Fantasy 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2031.ts
+#EXTINF:0,Pink Romance 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2032.ts
+#EXTINF:0,Pink Reality
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2048.ts
+#EXTINF:0,Pink Premium
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2029.ts
+#EXTINF:0,Pink M
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2033.ts
+#EXTINF:0,Pink Live
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2034.ts
+#EXTINF:0,Pink Kids
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2047.ts
+#EXTINF:0,Pink Horror
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2035.ts
+#EXTINF:0,Pink Hits 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2030.ts
+#EXTINF:0,Pink Folk 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2037.ts
+#EXTINF:0,Pink Folk 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2036.ts
+#EXTINF:0,Pink Family
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2038.ts
+#EXTINF:0,Pink Extra
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2046.ts
+#EXTINF:0,Pink Erotik 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2051.ts
+#EXTINF:0,Pink Crime & Mystery
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2039.ts
+#EXTINF:0,Pink Comedy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2045.ts
+#EXTINF:0,Pink BIH
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1474.ts
+#EXTINF:0,Pink Action
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2041.ts
+#EXTINF:0,Pink 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2044.ts
+#EXTINF:0,Pink 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2043.ts
+#EXTINF:0,Pink 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2042.ts
+#EXTINF:0,Peace TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2025.ts
+#EXTINF:0,OndaTV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2024.ts
+#EXTINF:0,OBN
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1458.ts
+#EXTINF:0,Nova TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1457.ts
+#EXTINF:0,Nat Geo Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1472.ts
+#EXTINF:0,Kanal D Turk
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1473.ts
+#EXTINF:0,HRT 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2027.ts
+#EXTINF:0,HRT 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1456.ts
+#EXTINF:0,HRT 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1455.ts
+#EXTINF:0,History Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1454.ts
+#EXTINF:0,HBO Comedy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1453.ts
+#EXTINF:0,HBO Adria
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1452.ts
+#EXTINF:0,Hayat Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1471.ts
+#EXTINF:0,Hayat Folk SR
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2021.ts
+#EXTINF:0,Hayat BIH
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1470.ts
+#EXTINF:0,Grand TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1475.ts
+#EXTINF:0,Fox TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1448.ts
+#EXTINF:0,Fox Movies
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1451.ts
+#EXTINF:0,Fox Life
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1450.ts
+#EXTINF:0,Fox Crime
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1449.ts
+#EXTINF:0,EuroSport 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1444.ts
+#EXTINF:0,EuroSport 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1443.ts
+#EXTINF:0,E
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1467.ts
+#EXTINF:0,Doma TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1446.ts
+#EXTINF:0,Discovery Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1445.ts
+#EXTINF:0,CineStar Premiere 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1469.ts
+#EXTINF:0,CineStar Premiere 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1468.ts
+#EXTINF:0,CineMax 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2023.ts
+#EXTINF:0,CineMax 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2022.ts
+#EXTINF:0,BHT 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1447.ts
+#EXTINF:0,B 92
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1465.ts
+#EXTINF:0,ArenaSport 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1439.ts
+#EXTINF:0,ArenaSport 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1438.ts
+#EXTINF:0,ArenaSport 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1437.ts
+#EXTINF:0,ArenaSport 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1436.ts
+#EXTINF:0,24 Kitchen
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1476.ts
+#EXTINF:0,UK
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4187.ts
+#EXTINF:0,TV Kohavision
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4182.ts
+#EXTINF:0,TV Jug
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4183.ts
+#EXTINF:0,Tring World
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4213.ts
+#EXTINF:0,Tring Vizion Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4214.ts
+#EXTINF:0,Tring Tring
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4215.ts
+#EXTINF:0,Tring Tirana TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4216.ts
+#EXTINF:0,Tring Tip TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4217.ts
+#EXTINF:0,Tring Super
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4218.ts
+#EXTINF:0,Tring Shqip
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4219.ts
+#EXTINF:0,Tring RTV 21 Popullore
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4220.ts
+#EXTINF:0,Tring RTV 21 Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4221.ts
+#EXTINF:0,Tring Planet
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4222.ts
+#EXTINF:0,Tring Max
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4223.ts
+#EXTINF:0,Tring Life
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4224.ts
+#EXTINF:0,Tring KTV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4225.ts
+#EXTINF:0,Tring Junior TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4226.ts
+#EXTINF:0,Tring Jolly HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4227.ts
+#EXTINF:0,Tring History
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4228.ts
+#EXTINF:0,Tring Folk Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4229.ts
+#EXTINF:0,Tring Fantasy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4230.ts
+#EXTINF:0,Tring Era TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4231.ts
+#EXTINF:0,Tring Elrodi
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4232.ts
+#EXTINF:0,Tring Comedy BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4252.ts
+#EXTINF:0,Tring Bang Bang
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4235.ts
+#EXTINF:0,Tring Agon Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4236.ts
+#EXTINF:0,Tring 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4237.ts
+#EXTINF:0,Top News
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4209.ts
+#EXTINF:0,Top Channel HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4178.ts
+#EXTINF:0,T Stinet
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4197.ts
+#EXTINF:0,T Channel HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4196.ts
+#EXTINF:0,SuperSport Kosova 2 BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4248.ts
+#EXTINF:0,SuperSport Kosova 1 BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4247.ts
+#EXTINF:0,SuperSport 4 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4201.ts
+#EXTINF:0,SuperSport 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4200.ts
+#EXTINF:0,SuperSport 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4199.ts
+#EXTINF:0,SuperSport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4198.ts
+#EXTINF:0,SuperSonic TV BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4249.ts
+#EXTINF:0,Super Folk BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4251.ts
+#EXTINF:0,RTV Sharri
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4184.ts
+#EXTINF:0,RTV 21 Sat
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4190.ts
+#EXTINF:0,RTV 21 Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4206.ts
+#EXTINF:0,RTK BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4239.ts
+#EXTINF:0,Rrokum HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4185.ts
+#EXTINF:0,Plus HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4191.ts
+#EXTINF:0,Ora News HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4210.ts
+#EXTINF:0,News 24
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4211.ts
+#EXTINF:0,My Music BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4250.ts
+#EXTINF:0,MAD TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4181.ts
+#EXTINF:0,Klan Kosova
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4189.ts
+#EXTINF:0,Klan HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4238.ts
+#EXTINF:0,Junior
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4207.ts
+#EXTINF:0,FolkLorit
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4205.ts
+#EXTINF:0,First Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4180.ts
+#EXTINF:0,Film Thriller
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4193.ts
+#EXTINF:0,Film Nje HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4241.ts
+#EXTINF:0,Film Komedi BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4246.ts
+#EXTINF:0,Film Hits BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4243.ts
+#EXTINF:0,Film Hits 1 BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4244.ts
+#EXTINF:0,Film DY HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4240.ts
+#EXTINF:0,Film Drame
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4194.ts
+#EXTINF:0,Film Autor BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4242.ts
+#EXTINF:0,Film Aksion BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4245.ts
+#EXTINF:0,Explorer Shkencë
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4203.ts
+#EXTINF:0,Explorer Natyra
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4202.ts
+#EXTINF:0,Explorer History
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4204.ts
+#EXTINF:0,Digi Gold
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4195.ts
+#EXTINF:0,Cufo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4208.ts
+#EXTINF:0,Channel 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4179.ts
+#EXTINF:0,AlsatM
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4188.ts
+#EXTINF:0,Alb UK
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4186.ts
+#EXTINF:0,ABC News
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4212.ts
+#EXTINF:0,3D
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4192.ts
+#EXTINF:0,Tring Fantasy BackUP 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3840.ts
+#EXTINF:0,Top Channel B
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3799.ts
+#EXTINF:0,TipTV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3796.ts
+#EXTINF:0,T Plus HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3807.ts
+#EXTINF:0,SuperSport Kosova 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3823.ts
+#EXTINF:0,SuperSport Kosova 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3822.ts
+#EXTINF:0,SuperSonic TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3810.ts
+#EXTINF:0,Super Folk
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3811.ts
+#EXTINF:0,Stinet
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3808.ts
+#EXTINF:0,Planet TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3797.ts
+#EXTINF:0,My Music
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3812.ts
+#EXTINF:0,Mad Albania
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3813.ts
+#EXTINF:0,Klan HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3800.ts
+#EXTINF:0,Klan B
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3801.ts
+#EXTINF:0,Jug TV PPV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3792.ts
+#EXTINF:0,Fox Crime
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3814.ts
+#EXTINF:0,First TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3802.ts
+#EXTINF:0,Film Triller
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3817.ts
+#EXTINF:0,Film Nje HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3815.ts
+#EXTINF:0,Film Komedi
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3821.ts
+#EXTINF:0,Film Hits 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3819.ts
+#EXTINF:0,Film Hits
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3818.ts
+#EXTINF:0,Film Dy HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3816.ts
+#EXTINF:0,Film Drame BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3835.ts
+#EXTINF:0,Film Autor
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3803.ts
+#EXTINF:0,Film Aksion
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3820.ts
+#EXTINF:0,Elrodi
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3798.ts
+#EXTINF:0,Digi Gold PPV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3793.ts
+#EXTINF:0,BBF
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3795.ts
+#EXTINF:0,AS BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3834.ts
+#EXTINF:0,Alb Music
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3809.ts
+#EXTINF:0,21 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3832.ts
+#EXTINF:0,Tring World BackUP 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2079.ts
+#EXTINF:0,Tring Tring BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2077.ts
+#EXTINF:0,Tring Super BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2076.ts
+#EXTINF:0,Tring Shqip BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2075.ts
+#EXTINF:0,Tring Planet BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2074.ts
+#EXTINF:0,Tring Max BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2073.ts
+#EXTINF:0,Tring History BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2072.ts
+#EXTINF:0,Tring Fantasy BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2071.ts
+#EXTINF:0,Tring Comedy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2054.ts
+#EXTINF:0,RTV 21
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2052.ts
+#EXTINF:0,RTK
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2053.ts
+#EXTINF:0,Jolly HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2068.ts
+#EXTINF:0,BBF Music BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2069.ts
+#EXTINF:0,OSN Movies Action Plus 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4372.ts
+#EXTINF:0,OSN Box Office 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4370.ts
+#EXTINF:0,OSN MBC HD Drama
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4373.ts
+#EXTINF:0,beINSport HD 9
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4327.ts
+#EXTINF:0,beINSport HD 8
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4326.ts
+#EXTINF:0,beINSport HD 7
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4325.ts
+#EXTINF:0,beINSport HD 6
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4324.ts
+#EXTINF:0,beINSport HD 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4323.ts
+#EXTINF:0,beINSport HD 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4322.ts
+#EXTINF:0,beINSport HD 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4321.ts
+#EXTINF:0,beINSport HD 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4320.ts
+#EXTINF:0,beINSport HD 15
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4333.ts
+#EXTINF:0,beINSport HD 14
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4332.ts
+#EXTINF:0,beINSport HD 13
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4331.ts
+#EXTINF:0,beINSport HD 12
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4330.ts
+#EXTINF:0,beINSport HD 11
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4329.ts
+#EXTINF:0,beINSport HD 10
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4328.ts
+#EXTINF:0,beINSport HD 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4319.ts
+#EXTINF:0,beINSports HD 9
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4280.ts
+#EXTINF:0,beINSports HD 8
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4279.ts
+#EXTINF:0,beINSports HD 7
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4278.ts
+#EXTINF:0,beINSports HD 6
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4277.ts
+#EXTINF:0,beINSports HD 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4276.ts
+#EXTINF:0,beINSports HD 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4275.ts
+#EXTINF:0,beINSports HD 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4274.ts
+#EXTINF:0,beINSports HD 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4273.ts
+#EXTINF:0,beINSports HD 16
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4287.ts
+#EXTINF:0,beINSports HD 15
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4286.ts
+#EXTINF:0,beINSports HD 14
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4285.ts
+#EXTINF:0,beINSports HD 13
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4284.ts
+#EXTINF:0,beINSports HD 12
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4283.ts
+#EXTINF:0,beINSports HD 11
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4282.ts
+#EXTINF:0,beINSports HD 10
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4281.ts
+#EXTINF:0,beINSports HD 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4272.ts
+#EXTINF:0,OSN Sport 4 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3459.ts
+#EXTINF:0,OSN Sport 3 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3473.ts
+#EXTINF:0,OSN Sport 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3458.ts
+#EXTINF:0,OSN Sport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3457.ts
+#EXTINF:0,OMN Star Movies
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4266.ts
+#EXTINF:0,OMN Nat Geo Wild
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4267.ts
+#EXTINF:0,OMN Movies Premiere 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4253.ts
+#EXTINF:0,OMN Movies Premiere 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4254.ts
+#EXTINF:0,OMN Movies Kids
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4255.ts
+#EXTINF:0,OMN Movies HD Action
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4256.ts
+#EXTINF:0,OMN Movies HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4257.ts
+#EXTINF:0,OMN Movies Festival
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4258.ts
+#EXTINF:0,OMN Movies Drama 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4259.ts
+#EXTINF:0,OMN Movies Drama 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4260.ts
+#EXTINF:0,OMN Movies Comedy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4261.ts
+#EXTINF:0,OMN Movies 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4262.ts
+#EXTINF:0,OMN First More
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4263.ts
+#EXTINF:0,OMN First Comedy 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4264.ts
+#EXTINF:0,OMN First Comedy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4265.ts
+#EXTINF:0,Zee Aflam
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3274.ts
+#EXTINF:0,MBC Sport 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3273.ts
+#EXTINF:0,MBC Sport 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3272.ts
+#EXTINF:0,MBC Maser Plus 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3271.ts
+#EXTINF:0,MBC Maser Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3270.ts
+#EXTINF:0,MBC Drama
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3269.ts
+#EXTINF:0,MBC BollyWood BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3268.ts
+#EXTINF:0,MBC BollyWood
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3267.ts
+#EXTINF:0,MBC Action
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3266.ts
+#EXTINF:0,MBC 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3265.ts
+#EXTINF:0,MBC 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3264.ts
+#EXTINF:0,MBC 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3263.ts
+#EXTINF:0,MBC 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3262.ts
+#EXTINF:0,AbuDhabi Yas Sport
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3279.ts
+#EXTINF:0,AbuDhabi Sport
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3278.ts
+#EXTINF:0,AbuDhabi Nat Geo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3277.ts
+#EXTINF:0,AbuDhabi Drama BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3276.ts
+#EXTINF:0,AbuDhabi Drama
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3275.ts
+#EXTINF:0,beINSport 9 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2455.ts
+#EXTINF:0,beINSport 8 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2454.ts
+#EXTINF:0,beINSport 7 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2453.ts
+#EXTINF:0,beINSport 6 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2452.ts
+#EXTINF:0,beINSport 5 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2451.ts
+#EXTINF:0,beINSport 4 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2450.ts
+#EXTINF:0,beINSport 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2449.ts
+#EXTINF:0,beINSport 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2448.ts
+#EXTINF:0,beINSport 15 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2461.ts
+#EXTINF:0,beINSport 14 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2460.ts
+#EXTINF:0,beINSport 13 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2459.ts
+#EXTINF:0,beINSport 12 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2458.ts
+#EXTINF:0,beINSport 11 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2457.ts
+#EXTINF:0,beINSport 10 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2456.ts
+#EXTINF:0,beINSport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2447.ts
+#EXTINF:0,Sky Action BackUP 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3841.ts
+#EXTINF:0,RTL II
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3826.ts
+#EXTINF:0,RTL I
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3825.ts
+#EXTINF:0,Das Ertes
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3828.ts
+#EXTINF:0,Arte
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3827.ts
+#EXTINF:0,ZDF BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3621.ts
+#EXTINF:0,Sky Emotion BackUP 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3622.ts
+#EXTINF:0,ZDF Neo HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3441.ts
+#EXTINF:0,ZDF Info HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3438.ts
+#EXTINF:0,ZDF HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3453.ts
+#EXTINF:0,Wdr HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3442.ts
+#EXTINF:0,VOX BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3470.ts
+#EXTINF:0,SWR HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3439.ts
+#EXTINF:0,Super RTL
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3456.ts
+#EXTINF:0,Sport 1 Plus HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3435.ts
+#EXTINF:0,Sky TNT Serie HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3421.ts
+#EXTINF:0,Sky TNT Film HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3422.ts
+#EXTINF:0,Sky Sport 2 HD BackUP 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3477.ts
+#EXTINF:0,Sky Sport 1 HD BackUP 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3476.ts
+#EXTINF:0,Sky Select HD 8
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3418.ts
+#EXTINF:0,Sky Select HD 7
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3417.ts
+#EXTINF:0,Sky Select HD 6
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3416.ts
+#EXTINF:0,Sky Select HD 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3415.ts
+#EXTINF:0,Sky Select HD 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3414.ts
+#EXTINF:0,Sky Select HD 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3413.ts
+#EXTINF:0,Sky Select HD 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3412.ts
+#EXTINF:0,Sky Select HD 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3411.ts
+#EXTINF:0,Sky National Geographic HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3419.ts
+#EXTINF:0,Sky NatGeo Wild HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3433.ts
+#EXTINF:0,Sky MGM HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3423.ts
+#EXTINF:0,Sky Krimi
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3429.ts
+#EXTINF:0,Sky Hits BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3468.ts
+#EXTINF:0,Sky Hits
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3203.ts
+#EXTINF:0,Sky History Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3424.ts
+#EXTINF:0,Sky Fox HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3425.ts
+#EXTINF:0,Sky Emotion BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3467.ts
+#EXTINF:0,Sky Discovery Channel HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3426.ts
+#EXTINF:0,Sky Comedy HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3430.ts
+#EXTINF:0,Sky Cinema HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3420.ts
+#EXTINF:0,Sky Cinema  24
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3431.ts
+#EXTINF:0,Sky Cinema  1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3434.ts
+#EXTINF:0,Sky BundesLiga 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3436.ts
+#EXTINF:0,Sky AXN HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3427.ts
+#EXTINF:0,Sky Atlantic BackUP 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3474.ts
+#EXTINF:0,Sky Action HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3432.ts
+#EXTINF:0,Sky 13 Street HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3428.ts
+#EXTINF:0,Sat 1 BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3469.ts
+#EXTINF:0,RTL 2 BackUP 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3475.ts
+#EXTINF:0,RTL 1 BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3471.ts
+#EXTINF:0,RTL
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3202.ts
+#EXTINF:0,ProSieben
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3455.ts
+#EXTINF:0,Pro Sieben Max
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3437.ts
+#EXTINF:0,ORF 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3447.ts
+#EXTINF:0,ORF 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3446.ts
+#EXTINF:0,Ndr HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3443.ts
+#EXTINF:0,Nat Geo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3204.ts
+#EXTINF:0,N24 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3448.ts
+#EXTINF:0,N-TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3449.ts
+#EXTINF:0,MDR HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3440.ts
+#EXTINF:0,Kika HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3450.ts
+#EXTINF:0,Kabel 1 BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3472.ts
+#EXTINF:0,Halle TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3454.ts
+#EXTINF:0,Eins Plus HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3444.ts
+#EXTINF:0,Arte HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3445.ts
+#EXTINF:0,ARD HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3451.ts
+#EXTINF:0,3Sat HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3452.ts
+#EXTINF:0,ZDF
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1629.ts
+#EXTINF:0,VOX
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1630.ts
+#EXTINF:0,Sky Sport 2 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1653.ts
+#EXTINF:0,Sky Sport 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1480.ts
+#EXTINF:0,Sky Sport 1 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1652.ts
+#EXTINF:0,Sky Sport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1479.ts
+#EXTINF:0,Sky Emotion
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1631.ts
+#EXTINF:0,Sky Comedy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1632.ts
+#EXTINF:0,Sky Cinema Plus 24
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1633.ts
+#EXTINF:0,Sky Cinema
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1634.ts
+#EXTINF:0,Sky BundesLiga HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1654.ts
+#EXTINF:0,Sky BundesLiga HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1478.ts
+#EXTINF:0,Sky Atlantic
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1635.ts
+#EXTINF:0,Sky Action
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1636.ts
+#EXTINF:0,Sat 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1637.ts
+#EXTINF:0,RTL Passion
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1638.ts
+#EXTINF:0,RTL Nitro
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1639.ts
+#EXTINF:0,RTL 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1641.ts
+#EXTINF:0,Pro 7
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1642.ts
+#EXTINF:0,ORF Eins
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1643.ts
+#EXTINF:0,ORF 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1644.ts
+#EXTINF:0,National Geographic
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1645.ts
+#EXTINF:0,Nat Geo Wild
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1646.ts
+#EXTINF:0,Kika
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1648.ts
+#EXTINF:0,Kabel 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1649.ts
+#EXTINF:0,Fox Life
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1650.ts
+#EXTINF:0,Discovery
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1651.ts
+#EXTINF:0,TVE 24
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2952.ts
+#EXTINF:0,TVE 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2953.ts
+#EXTINF:0,TV 3 Catalunya
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2954.ts
+#EXTINF:0,TRVE 24
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2955.ts
+#EXTINF:0,TeleDeporte
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2956.ts
+#EXTINF:0,Telecinco
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2957.ts
+#EXTINF:0,TCM
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2958.ts
+#EXTINF:0,Sy-Fy BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3010.ts
+#EXTINF:0,SportMania BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3011.ts
+#EXTINF:0,Sol Musica
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2959.ts
+#EXTINF:0,Real Madrid Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2960.ts
+#EXTINF:0,Radio Monte Carlo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2961.ts
+#EXTINF:0,Nova
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2962.ts
+#EXTINF:0,National Geographic
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2963.ts
+#EXTINF:0,Nat Geo Wild
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2964.ts
+#EXTINF:0,MTV Catfish
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2965.ts
+#EXTINF:0,MoviStar MotoGP BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3012.ts
+#EXTINF:0,MoviStar F1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2966.ts
+#EXTINF:0,Latino
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2967.ts
+
+#EXTINF:0,La 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2969.ts
+#EXTINF:0,HollyWood BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3013.ts
+#EXTINF:0,Historia
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2970.ts
+#EXTINF:0,GOL TV BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3014.ts
+#EXTINF:0,Galicia TV BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3015.ts
+#EXTINF:0,FX
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2971.ts
+#EXTINF:0,Fox Sports 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2973.ts
+#EXTINF:0,Fox Sports 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2972.ts
+#EXTINF:0,Fox Movies
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2974.ts
+#EXTINF:0,Fox Life
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2975.ts
+#EXTINF:0,Fox Cinema
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2976.ts
+#EXTINF:0,Fox Action
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2977.ts
+#EXTINF:0,Fox
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2978.ts
+#EXTINF:0,FDF BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3016.ts
+#EXTINF:0,Fashion TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2979.ts
+#EXTINF:0,EuroSport 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2980.ts
+#EXTINF:0,Disney Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2981.ts
+#EXTINF:0,Discovery Science
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2982.ts
+#EXTINF:0,Discovery
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2983.ts
+#EXTINF:0,Dcine Espanol
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2984.ts
+#EXTINF:0,Cuatro
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2985.ts
+#EXTINF:0,Cosmo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2986.ts
+#EXTINF:0,Comedy Central
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2987.ts
+#EXTINF:0,Clan TVE
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2988.ts
+#EXTINF:0,Caza Y Pesca
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2989.ts
+#EXTINF:0,Canal Plus Xtra
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2990.ts
+#EXTINF:0,Canal Plus Liga Campeons
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2991.ts
+#EXTINF:0,Canal Plus Liga
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2992.ts
+#EXTINF:0,Canal Plus Golf
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2993.ts
+#EXTINF:0,Canal Plus Futbol
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2994.ts
+#EXTINF:0,Canal Plus Deportes
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3001.ts
+#EXTINF:0,Canal Plus Decasa
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2995.ts
+#EXTINF:0,Canal Plus DCine
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2996.ts
+#EXTINF:0,Canal Plus Comedia
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2997.ts
+#EXTINF:0,Canal Plus Accion
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2998.ts
+#EXTINF:0,Canal Plus 2 BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3017.ts
+#EXTINF:0,Canal Plus 1 Series
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3000.ts
+#EXTINF:0,Canal Plus 1 BackUP 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3021.ts
+#EXTINF:0,Canal Plus 1 BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2999.ts
+#EXTINF:0,Calle 13 BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3018.ts
+#EXTINF:0,AXN White BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3019.ts
+#EXTINF:0,AXN
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3002.ts
+#EXTINF:0,Antenna 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3003.ts
+#EXTINF:0,Andalucia
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3004.ts
+#EXTINF:0,A & E
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3005.ts
+#EXTINF:0,40 TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3006.ts
+#EXTINF:0,13 TV BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3020.ts
+#EXTINF:0,beINSports HD Max 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4271.ts
+#EXTINF:0,beINSports HD 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4270.ts
+#EXTINF:0,beINSports HD 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4269.ts
+#EXTINF:0,beINSports HD 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4268.ts
+#EXTINF:0,W9 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3770.ts
+#EXTINF:0,TV5 Monde Europe HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3769.ts
+#EXTINF:0,TMC HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3768.ts
+#EXTINF:0,Sport Plus HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3767.ts
+#EXTINF:0,RTS 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3766.ts
+#EXTINF:0,RTS 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3765.ts
+#EXTINF:0,RTL 9 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3771.ts
+#EXTINF:0,RTC HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3772.ts
+#EXTINF:0,Oui FM HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3764.ts
+#EXTINF:0,OCS Max HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3761.ts
+#EXTINF:0,OCS Géants HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3762.ts
+#EXTINF:0,OCS City HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3763.ts
+#EXTINF:0,NRJ 12 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3760.ts
+#EXTINF:0,Notélé HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3759.ts
+#EXTINF:0,M6 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3758.ts
+#EXTINF:0,La Chaine Normandie HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3757.ts
+#EXTINF:0,L Equippe 21 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3756.ts
+#EXTINF:0,IL TV HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3755.ts
+#EXTINF:0,i24 News HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3754.ts
+#EXTINF:0,France O HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3752.ts
+#EXTINF:0,France 24 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3753.ts
+#EXTINF:0,EuroSport 1 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3776.ts
+#EXTINF:0,EuroNews HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3751.ts
+#EXTINF:0,Enorme TV HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3750.ts
+#EXTINF:0,Documenia HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3749.ts
+#EXTINF:0,D8 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3747.ts
+#EXTINF:0,D17 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3748.ts
+#EXTINF:0,Comedie Plus HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3746.ts
+#EXTINF:0,Club 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3745.ts
+#EXTINF:0,Ciné Plus Premier HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3739.ts
+#EXTINF:0,Ciné Plus HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3744.ts
+#EXTINF:0,Ciné Plus Frisson HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3740.ts
+#EXTINF:0,Ciné Plus Fil HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3743.ts
+#EXTINF:0,Ciné Plus Etolie HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3738.ts
+#EXTINF:0,Ciné Plus Emotion HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3741.ts
+#EXTINF:0,Ciné Plus Classic HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3742.ts
+#EXTINF:0,Cartoon Network HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3737.ts
+#EXTINF:0,Canal Plus Sport HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3775.ts
+#EXTINF:0,Canal Plus Series HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3774.ts
+
+#EXTINF:0,Canal Plus Family HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3735.ts
+#EXTINF:0,Canal Plus Décalé HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3733.ts
+#EXTINF:0,Canal Plus Comedy HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3734.ts
+#EXTINF:0,Canal Plus Cinema HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3773.ts
+#EXTINF:0,BFM Business HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3731.ts
+#EXTINF:0,beINSport HD Max 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3730.ts
+#EXTINF:0,beINSport HD 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3729.ts
+#EXTINF:0,beINSport HD 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3728.ts
+#EXTINF:0,beINSport HD 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3727.ts
+#EXTINF:0,Arte HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3726.ts
+#EXTINF:0,Africa24
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3725.ts
+#EXTINF:0,Action HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3732.ts
+#EXTINF:0,AB1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3724.ts
+#EXTINF:0,6TER HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3723.ts
+#EXTINF:0,13éme Rue HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3722.ts
+#EXTINF:0,National Geo Wild
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3606.ts
+#EXTINF:0,BloomBerg
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3605.ts
+#EXTINF:0,BFM TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3607.ts
+#EXTINF:0,beINSport Max 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3205.ts
+#EXTINF:0,beINSport 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3609.ts
+#EXTINF:0,beINSport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3608.ts
+
+#EXTINF:0,Tiji
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2234.ts
+#EXTINF:0,TF1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2204.ts
+#EXTINF:0,Teva
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2225.ts
+#EXTINF:0,TeleToon Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2238.ts
+#EXTINF:0,TCM
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2218.ts
+#EXTINF:0,Sy-Fy HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2228.ts
+#EXTINF:0,Serie Club HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2221.ts
+#EXTINF:0,Planete Plus HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2247.ts
+#EXTINF:0,Planete Plus CI
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2249.ts
+#EXTINF:0,Planete Plus AE
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2248.ts
+#EXTINF:0,Piwi Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2235.ts
+#EXTINF:0,Paris Premiere
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2224.ts
+#EXTINF:0,National Geo People HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2250.ts
+#EXTINF:0,MTV Hits
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2259.ts
+#EXTINF:0,MTV Dance
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2258.ts
+#EXTINF:0,Mangas
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2245.ts
+#EXTINF:0,MA Chaine Sport
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2251.ts
+#EXTINF:0,June
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2230.ts
+#EXTINF:0,Hustler HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2263.ts
+#EXTINF:0,France O
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2199.ts
+#EXTINF:0,France 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2203.ts
+#EXTINF:0,France 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2202.ts
+#EXTINF:0,France 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2201.ts
+#EXTINF:0,France 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2200.ts
+#EXTINF:0,E!
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2229.ts
+#EXTINF:0,Disney Cine Magic
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2244.ts
+#EXTINF:0,Disney Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2241.ts
+#EXTINF:0,D8
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2227.ts
+#EXTINF:0,Cuisine Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2232.ts
+#EXTINF:0,Comedie Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2220.ts
+#EXTINF:0,Cine Plus Premier HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2213.ts
+#EXTINF:0,Cine Plus Frisson HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2212.ts
+#EXTINF:0,Cine Plus Famiz HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2215.ts
+#EXTINF:0,Cine Plus Emotion HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2214.ts
+#EXTINF:0,Cine Plus Club HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2216.ts
+#EXTINF:0,Cine Classic HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2217.ts
+#EXTINF:0,Chasse & Peche
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2257.ts
+#EXTINF:0,Cartoon NetWork
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2246.ts
+#EXTINF:0,Canal Plus Sport HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2210.ts
+#EXTINF:0,Canal Plus Series HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2211.ts
+#EXTINF:0,Canal Plus Cinema HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2207.ts
+
+
+#EXTINF:0,BoomeRang
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2240.ts
+#EXTINF:0,Boing
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2237.ts
+#EXTINF:0,Blue Hustler
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2264.ts
+#EXTINF:0,beINSport 2 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2261.ts
+#EXTINF:0,beINSport 1 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2260.ts
+#EXTINF:0,13 Eme Rue
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2219.ts
+#EXTINF:0,EuroSport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2013.ts
+#EXTINF:0,beINSports 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2015.ts
+#EXTINF:0,beINSports 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2014.ts
+#EXTINF:0,Yesterday
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3962.ts
+#EXTINF:0,Watch
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3961.ts
+#EXTINF:0,Viva
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4024.ts
+#EXTINF:0,Vintage TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4022.ts
+#EXTINF:0,Vh1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4021.ts
+#EXTINF:0,TV3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4026.ts
+#EXTINF:0,Travel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3992.ts
+#EXTINF:0,Tiny Pop Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3972.ts
+#EXTINF:0,The Vault
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4025.ts
+#EXTINF:0,Tcm Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3933.ts
+#EXTINF:0,Sy-Fy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3939.ts
+#EXTINF:0,Starz
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4017.ts
+#EXTINF:0,Sony Movies Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3937.ts
+#EXTINF:0,Sony Movies
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3936.ts
+#EXTINF:0,Sky Sport HD F1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4001.ts
+#EXTINF:0,Sky Sport HD 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4000.ts
+#EXTINF:0,Sky Sport HD 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3999.ts
+#EXTINF:0,Sky Sport HD 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3998.ts
+#EXTINF:0,Sky Sport HD 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3997.ts
+#EXTINF:0,Sky Sport HD 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3996.ts
+#EXTINF:0,Sky One HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3938.ts
+#EXTINF:0,Sky Movies Thriller HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4067.ts
+#EXTINF:0,Sky Movies ShowCase HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3924.ts
+#EXTINF:0,Sky Movies ShowCase
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3923.ts
+#EXTINF:0,Sky Movies Select
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3931.ts
+#EXTINF:0,Sky Movies Sci-Fi HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4068.ts
+#EXTINF:0,Sky Movies Premiere Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3922.ts
+#EXTINF:0,Sky Movies Premiere HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4065.ts
+#EXTINF:0,Sky Movies Modern Select HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3932.ts
+#EXTINF:0,Sky Movies Modern Great HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3925.ts
+#EXTINF:0,Sky Movies Modern Drama HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3930.ts
+#EXTINF:0,Sky Movies Family HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3926.ts
+#EXTINF:0,Sky Movies Disney HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3928.ts
+#EXTINF:0,Sky Movies Disney
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3927.ts
+#EXTINF:0,Sky Movies Comedy HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3929.ts
+#EXTINF:0,Sky Movies Action HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4066.ts
+#EXTINF:0,Sky Atlanatic HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3942.ts
+#EXTINF:0,Sky Arts 2 BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4070.ts
+#EXTINF:0,Setanta Sports 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4007.ts
+#EXTINF:0,Setanta
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4006.ts
+#EXTINF:0,Scuzz
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4023.ts
+#EXTINF:0,Really
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3947.ts
+#EXTINF:0,Quest Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3960.ts
+#EXTINF:0,Quest
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3959.ts
+#EXTINF:0,Pop Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4016.ts
+#EXTINF:0,Pop
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4015.ts
+#EXTINF:0,Pick TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3958.ts
+#EXTINF:0,PBS America
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3995.ts
+#EXTINF:0,NickToo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3965.ts
+#EXTINF:0,Nick JR Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3964.ts
+#EXTINF:0,Nick JR
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3963.ts
+#EXTINF:0,Nat Geo Wild
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3975.ts
+#EXTINF:0,Nat Geo Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3974.ts
+#EXTINF:0,Nat Geo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3973.ts
+#EXTINF:0,MUTV BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4071.ts
+#EXTINF:0,MTV Rock
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4014.ts
+#EXTINF:0,MTV Dance
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4013.ts
+#EXTINF:0,MTV Classic
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4011.ts
+#EXTINF:0,MTV Base
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4012.ts
+#EXTINF:0,Movies 4 Men Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3935.ts
+#EXTINF:0,Mototrs TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4009.ts
+#EXTINF:0,More4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3952.ts
+#EXTINF:0,More Movies Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3934.ts
+#EXTINF:0,Magic
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4018.ts
+#EXTINF:0,Lfc TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4008.ts
+#EXTINF:0,Kix
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4019.ts
+#EXTINF:0,ITV ENC
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4027.ts
+#EXTINF:0,ITV BE
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4028.ts
+#EXTINF:0,ITV 1 Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4029.ts
+#EXTINF:0,ID Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3984.ts
+#EXTINF:0,Horror Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3941.ts
+#EXTINF:0,Home
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3993.ts
+#EXTINF:0,History Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3988.ts
+#EXTINF:0,History
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3987.ts
+#EXTINF:0,Heart
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3994.ts
+#EXTINF:0,H2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3989.ts
+#EXTINF:0,Good Food
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3990.ts
+#EXTINF:0,Food Network
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3991.ts
+#EXTINF:0,Flava
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4020.ts
+#EXTINF:0,EuroNews
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4005.ts
+#EXTINF:0,E! Entertainment
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3940.ts
+#EXTINF:0,Drama
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3957.ts
+#EXTINF:0,DisneyXD Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3971.ts
+#EXTINF:0,Disney Junior Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3970.ts
+#EXTINF:0,Disney Junior
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3969.ts
+#EXTINF:0,Disney Channel Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3968.ts
+#EXTINF:0,Discovery Turbo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3978.ts
+#EXTINF:0,Discovery Shed
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3981.ts
+#EXTINF:0,Discovery Science Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3979.ts
+#EXTINF:0,Discovery Science BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4069.ts
+#EXTINF:0,Discovery Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3976.ts
+#EXTINF:0,Discovery Investigation
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3982.ts
+#EXTINF:0,Discovery Home
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3983.ts
+#EXTINF:0,Discovery History Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3980.ts
+#EXTINF:0,Discovery H Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3977.ts
+#EXTINF:0,Crime Investigation
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3985.ts
+#EXTINF:0,Community Ch
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3956.ts
+#EXTINF:0,Comedy Central Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3949.ts
+#EXTINF:0,Comedy Central Extra Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3951.ts
+#EXTINF:0,Comedy Central Extra
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3950.ts
+#EXTINF:0,Comedy Central
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3948.ts
+#EXTINF:0,Challenge TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3955.ts
+#EXTINF:0,CBS Reality
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3946.ts
+#EXTINF:0,CBS Drama
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3945.ts
+#EXTINF:0,CBS Action
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3944.ts
+#EXTINF:0,Cartoonito
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3966.ts
+#EXTINF:0,Cartoon NetWork
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3967.ts
+#EXTINF:0,Box Nation HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4010.ts
+#EXTINF:0,Atlantic Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3943.ts
+#EXTINF:0,Astro Sports 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4004.ts
+#EXTINF:0,Astro Sports 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4003.ts
+#EXTINF:0,Astro Sports 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4002.ts
+#EXTINF:0,Animal Planet Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3986.ts
+#EXTINF:0,Alibi
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3954.ts
+#EXTINF:0,3E
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3953.ts
+#EXTINF:0,Sky Two
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3573.ts
+#EXTINF:0,Sky Thriller
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3575.ts
+#EXTINF:0,Sky Sport News
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3604.ts
+#EXTINF:0,Sky Sport F1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3603.ts
+#EXTINF:0,Sky Sport F1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3602.ts
+#EXTINF:0,Sky Sport 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3601.ts
+#EXTINF:0,Sky Sport 4 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3600.ts
+#EXTINF:0,Sky Sport 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3599.ts
+#EXTINF:0,Sky Sport 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3598.ts
+#EXTINF:0,Sky Sport 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3597.ts
+#EXTINF:0,Sky Sport 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3596.ts
+#EXTINF:0,Sky Sport 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3595.ts
+#EXTINF:0,Sky Sport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3594.ts
+#EXTINF:0,Sky Sport 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3593.ts
+#EXTINF:0,Sky Sci-Fi
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3574.ts
+#EXTINF:0,Sky One Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3572.ts
+#EXTINF:0,Sky One
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3571.ts
+#EXTINF:0,Sky News
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3570.ts
+#EXTINF:0,Sky Movie Premiere
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3569.ts
+#EXTINF:0,Sky Modern Great
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3568.ts
+#EXTINF:0,Sky Living
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3567.ts
+#EXTINF:0,Sky Family
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3566.ts
+#EXTINF:0,Sky Drama
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3565.ts
+#EXTINF:0,Sky Disney
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3564.ts
+#EXTINF:0,Sky Comedy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3563.ts
+#EXTINF:0,Sky Atlantic
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3562.ts
+#EXTINF:0,Sky Art 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3561.ts
+#EXTINF:0,Sky Art 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3560.ts
+#EXTINF:0,Sky Action
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3559.ts
+#EXTINF:0,Setanta Sport
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3583.ts
+#EXTINF:0,Racing
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3585.ts
+#EXTINF:0,Premiere Sport
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3584.ts
+#EXTINF:0,ITV 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3579.ts
+#EXTINF:0,ITV 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3578.ts
+#EXTINF:0,ITV 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3577.ts
+#EXTINF:0,ITV 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3576.ts
+#EXTINF:0,EuroSport 2 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3619.ts
+#EXTINF:0,EuroSport 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3591.ts
+#EXTINF:0,EuroSport 1 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3618.ts
+#EXTINF:0,EuroSport 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3590.ts
+#EXTINF:0,ESPN HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3620.ts
+#EXTINF:0,ESPN
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3592.ts
+#EXTINF:0,BT Sport 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3589.ts
+#EXTINF:0,BT Sport 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3588.ts
+#EXTINF:0,BT Sport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3587.ts
+#EXTINF:0,BT Sport 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3586.ts
+#EXTINF:0,BBC 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3582.ts
+#EXTINF:0,BBC 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3581.ts
+#EXTINF:0,BBC 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3580.ts
+#EXTINF:0,True Movies 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2662.ts
+#EXTINF:0,True Movies 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2661.ts
+#EXTINF:0,True Entertainment
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2663.ts
+#EXTINF:0,True Drama
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2664.ts
+#EXTINF:0,Tiny Pop
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2665.ts
+#EXTINF:0,Star Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2666.ts
+#EXTINF:0,Sports Night
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2667.ts
+#EXTINF:0,Sky Sci-Fy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2668.ts
+#EXTINF:0,POP Girl
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2654.ts
+#EXTINF:0,PlayBoy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2684.ts
+#EXTINF:0,Nick
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2669.ts
+#EXTINF:0,MUTV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2655.ts
+#EXTINF:0,MTV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2670.ts
+#EXTINF:0,Life OK
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2653.ts
+#EXTINF:0,Fox Life
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2657.ts
+#EXTINF:0,Fox Crime
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2658.ts
+#EXTINF:0,Fox
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2656.ts
+#EXTINF:0,Football
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2671.ts
+#EXTINF:0,ESPN 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2673.ts
+#EXTINF:0,ESPN 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2672.ts
+#EXTINF:0,E4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2674.ts
+#EXTINF:0,Disney XD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2675.ts
+#EXTINF:0,Discovery World
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2678.ts
+#EXTINF:0,Discovery Science
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2679.ts
+#EXTINF:0,Discovery ID
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2676.ts
+#EXTINF:0,Crime and Investigation
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2677.ts
+#EXTINF:0,Chart Show Dance
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2659.ts
+#EXTINF:0,Channel 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2680.ts
+#EXTINF:0,Channel 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2681.ts
+#EXTINF:0,Box Nation
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2682.ts
+#EXTINF:0,Bliss
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2660.ts
+#EXTINF:0,Animal Planet
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2683.ts
+#EXTINF:0,5 USA
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2652.ts
+#EXTINF:0,Vivo 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1953.ts
+#EXTINF:0,Vivo 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1952.ts
+#EXTINF:0,Vivo 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1951.ts
+#EXTINF:0,Sky Sports News HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1954.ts
+#EXTINF:0,Sky Movies Thriller HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1955.ts
+#EXTINF:0,Sky Movies Select HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1956.ts
+#EXTINF:0,Sky Movies Sci-Fi HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1957.ts
+#EXTINF:0,Sky Movies Premiere HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1958.ts
+#EXTINF:0,Sky Movies Modern Great
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1959.ts
+#EXTINF:0,Sky Movies Drama HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1960.ts
+#EXTINF:0,Sky Movies Action HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1961.ts
+#EXTINF:0,Sky Atlantic HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1962.ts
+#EXTINF:0,Sky Arts 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1964.ts
+#EXTINF:0,Sky Arts 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1963.ts
+#EXTINF:0,Setanta Ireland
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1965.ts
+#EXTINF:0,RTE 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1967.ts
+#EXTINF:0,RTE 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1966.ts
+#EXTINF:0,Racing BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2016.ts
+#EXTINF:0,National Geography Wild
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1968.ts
+#EXTINF:0,MTV Music
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1969.ts
+#EXTINF:0,MTV Hits
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1970.ts
+#EXTINF:0,Movies 4 Men
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1971.ts
+#EXTINF:0,Living
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1972.ts
+#EXTINF:0,ITV 4 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1976.ts
+#EXTINF:0,ITV 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1975.ts
+#EXTINF:0,ITV 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1974.ts
+#EXTINF:0,ITV 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1973.ts
+#EXTINF:0,Gold
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1977.ts
+#EXTINF:0,Five
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1978.ts
+#EXTINF:0,Film 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1979.ts
+#EXTINF:0,Eurosport 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1981.ts
+#EXTINF:0,Eurosport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1980.ts
+#EXTINF:0,ESPN HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1982.ts
+#EXTINF:0,Dmax
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1983.ts
+#EXTINF:0,Disney Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1984.ts
+#EXTINF:0,Discovery History
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1985.ts
+#EXTINF:0,Discovery
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1986.ts
+#EXTINF:0,Dave
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1987.ts
+#EXTINF:0,Colors
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1988.ts
+#EXTINF:0,ClubLand
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1989.ts
+#EXTINF:0,Chelsea FC
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1990.ts
+#EXTINF:0,BT Sports 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1992.ts
+#EXTINF:0,BT Sports 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1991.ts
+#EXTINF:0,BBC 4 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1996.ts
+#EXTINF:0,BBC 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1995.ts
+#EXTINF:0,BBC 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1994.ts
+#EXTINF:0,BBC 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1993.ts
+#EXTINF:0,At The Races
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1997.ts
+#EXTINF:0,West Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1582.ts
+#EXTINF:0,VOULI
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1592.ts
+#EXTINF:0,VIMA TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1583.ts
+#EXTINF:0,Tile Sport TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1593.ts
+#EXTINF:0,TELE EPILOGES
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1594.ts
+#EXTINF:0,Star BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2017.ts
+#EXTINF:0,OMEGA TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1577.ts
+#EXTINF:0,ODIE TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1578.ts
+#EXTINF:0,Nerit HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2018.ts
+#EXTINF:0,NERIT HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1579.ts
+#EXTINF:0,Mega BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2019.ts
+#EXTINF:0,LePanto TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1585.ts
+#EXTINF:0,Kriti TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1611.ts
+#EXTINF:0,Kontra TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1612.ts
+#EXTINF:0,Kissamos TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1586.ts
+#EXTINF:0,Kanali 6 Xanthi
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1597.ts
+#EXTINF:0,IOANNINA TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1598.ts
+#EXTINF:0,Flash TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1599.ts
+#EXTINF:0,Faros Web TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1600.ts
+#EXTINF:0,EXTRA 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1601.ts
+#EXTINF:0,Euronews
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1613.ts
+#EXTINF:0,ET3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1587.ts
+#EXTINF:0,Epsilon
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1614.ts
+#EXTINF:0,Epirus TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1588.ts
+#EXTINF:0,ELLADA TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1602.ts
+#EXTINF:0,DION TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1580.ts
+#EXTINF:0,CY Sports
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1581.ts
+#EXTINF:0,CY Sigma
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1616.ts
+#EXTINF:0,CY RIK Sat
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1589.ts
+#EXTINF:0,CY Extra Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1617.ts
+#EXTINF:0,CY Ant 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1618.ts
+#EXTINF:0,CORFU CHANNEL
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1590.ts
+#EXTINF:0,BEST TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1604.ts
+#EXTINF:0,ASTRA TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1605.ts
+#EXTINF:0,ANT1 BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2020.ts
+#EXTINF:0,ANT1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1619.ts
+#EXTINF:0,Alpha
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2012.ts
+#EXTINF:0,Aigaio TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1606.ts
+#EXTINF:0,ACTION 24
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1591.ts
+#EXTINF:0,4E TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1607.ts
+#EXTINF:0,Zing BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3791.ts
+#EXTINF:0,Zee Living
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3777.ts
+#EXTINF:0,Zee Alwan
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3778.ts
+#EXTINF:0,Sony Setmax
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3779.ts
+#EXTINF:0,Sony Entertainment
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3780.ts
+#EXTINF:0,PTV News
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3781.ts
+#EXTINF:0,Life OK
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3782.ts
+#EXTINF:0,DM Plus Global
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3783.ts
+#EXTINF:0,B4U PLus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3784.ts
+#EXTINF:0,B4U Music
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3785.ts
+#EXTINF:0,B4U Movies
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3786.ts
+#EXTINF:0,ARY News
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3787.ts
+#EXTINF:0,AAJ Tak
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3788.ts
+#EXTINF:0,TV 2000
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4378.ts
+#EXTINF:0,Rai Movie
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4379.ts
+#EXTINF:0,Premium Sport
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4380.ts
+#EXTINF:0,Premium Crime Plus 24
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4381.ts
+#EXTINF:0,Premium Cinema Plus 24
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4383.ts
+#EXTINF:0,Premium Cinema 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4382.ts
+#EXTINF:0,Nuvolari
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4374.ts
+#EXTINF:0,Leonardo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4375.ts
+#EXTINF:0,La 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4376.ts
+#EXTINF:0,Disney Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4377.ts
+#EXTINF:0,AXN HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4384.ts
+#EXTINF:0,Sky PrimaFila 9 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4310.ts
+#EXTINF:0,Sky PrimaFila 8 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4311.ts
+#EXTINF:0,Sky PrimaFila 7 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4312.ts
+#EXTINF:0,Sky PrimaFila 6 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4313.ts
+#EXTINF:0,Sky PrimaFila 5 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4314.ts
+#EXTINF:0,Sky PrimaFila 4 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4315.ts
+#EXTINF:0,Sky PrimaFila 3 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4316.ts
+#EXTINF:0,Sky PrimaFila 2 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4317.ts
+#EXTINF:0,Sky PrimaFila 19 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4300.ts
+#EXTINF:0,Sky PrimaFila 18 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4301.ts
+#EXTINF:0,Sky PrimaFila 17 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4302.ts
+#EXTINF:0,Sky PrimaFila 16 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4303.ts
+#EXTINF:0,Sky PrimaFila 15 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4304.ts
+#EXTINF:0,Sky PrimaFila 14 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4305.ts
+#EXTINF:0,Sky PrimaFila 13 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4306.ts
+#EXTINF:0,Sky PrimaFila 12 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4307.ts
+#EXTINF:0,Sky PrimaFila 11 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4308.ts
+#EXTINF:0,Sky PrimaFila 10 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4309.ts
+#EXTINF:0,Sky PrimaFila 1 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4318.ts
+
+#EXTINF:0,Hot Club 9 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4291.ts
+#EXTINF:0,Hot Club 8 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4292.ts
+#EXTINF:0,Hot Club 7 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4293.ts
+#EXTINF:0,Hot Club 6 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4294.ts
+#EXTINF:0,Hot Club 5 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4295.ts
+#EXTINF:0,Hot Club 4 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4296.ts
+#EXTINF:0,Hot Club 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4297.ts
+#EXTINF:0,Hot Club 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4298.ts
+#EXTINF:0,Hot Club 10 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4290.ts
+#EXTINF:0,Hot Club 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4299.ts
+#EXTINF:0,Super Tennis HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4084.ts
+#EXTINF:0,Sky SuperCalcio HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4113.ts
+#EXTINF:0,Sky Sport F1 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4112.ts
+#EXTINF:0,Sky Sport 3 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4111.ts
+#EXTINF:0,Sky Sport 24 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4108.ts
+#EXTINF:0,Sky Sport 2 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4110.ts
+#EXTINF:0,Sky Sport 1 HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4109.ts
+#EXTINF:0,Sky Fox Crime HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4080.ts
+#EXTINF:0,Sky Fox Comedy HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4082.ts
+#EXTINF:0,Sky Fox Animation HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4083.ts
+#EXTINF:0,Sky Cinema Plus 24 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4078.ts
+#EXTINF:0,Sky Cinema Passion HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4104.ts
+#EXTINF:0,Sky Cinema Max HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4073.ts
+#EXTINF:0,Sky Cinema Hits HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4074.ts
+#EXTINF:0,Sky Cinema Family HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4105.ts
+#EXTINF:0,Sky Cinema Cult HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4075.ts
+#EXTINF:0,Sky Cinema Comedy HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4106.ts
+#EXTINF:0,Sky Cinema Classic HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4076.ts
+#EXTINF:0,Sky Cinema 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4077.ts
+#EXTINF:0,Sky Atlantic HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4107.ts
+#EXTINF:0,Rai 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4072.ts
+#EXTINF:0,Premium Studio Universal BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4119.ts
+#EXTINF:0,Premium Joi
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4091.ts
+#EXTINF:0,Premium EuroSport 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4094.ts
+#EXTINF:0,Premium EuroSport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4093.ts
+#EXTINF:0,Premium Energy BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4120.ts
+#EXTINF:0,Premium Emotion BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4121.ts
+#EXTINF:0,Premium Disney Channel BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4123.ts
+#EXTINF:0,Premium Crime HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4095.ts
+#EXTINF:0,Premium Comedy BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4125.ts
+#EXTINF:0,Premium Action HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4103.ts
+#EXTINF:0,National Geographic HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4117.ts
+#EXTINF:0,Nat Geo Wild HD BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4118.ts
+#EXTINF:0,Nat Geo People
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4088.ts
+#EXTINF:0,History HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4089.ts
+#EXTINF:0,AXN HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4081.ts
+#EXTINF:0,VideoLina
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3712.ts
+#EXTINF:0,SuperTennis
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3716.ts
+#EXTINF:0,Rete 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3707.ts
+#EXTINF:0,RealTime
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3711.ts
+#EXTINF:0,Rai Sport 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3708.ts
+#EXTINF:0,Premium Prestige
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3721.ts
+#EXTINF:0,Premium Calcio 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3720.ts
+#EXTINF:0,Premium Calcio 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3719.ts
+#EXTINF:0,National Geographic HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3717.ts
+#EXTINF:0,Fox Sport 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3715.ts
+#EXTINF:0,Fox Sport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3714.ts
+#EXTINF:0,Fox HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3713.ts
+#EXTINF:0,EuroSport 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3710.ts
+#EXTINF:0,EuroSport 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3709.ts
+#EXTINF:0,Discovery
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3718.ts
+#EXTINF:0,TopCrime
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3663.ts
+#EXTINF:0,TgCom 24
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3672.ts
+#EXTINF:0,SuperTennis HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3644.ts
+#EXTINF:0,Super Calcio HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3647.ts
+#EXTINF:0,Studio Universal
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3682.ts
+#EXTINF:0,Sport Italia
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3645.ts
+#EXTINF:0,Sky Uno HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3649.ts
+#EXTINF:0,Sky Sport Plus HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3640.ts
+#EXTINF:0,Sky Sport MotoGP HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3639.ts
+#EXTINF:0,Sky IT 3D
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3638.ts
+#EXTINF:0,Sky Explora HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3650.ts
+#EXTINF:0,RSI LA 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3633.ts
+#EXTINF:0,RSI LA 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3632.ts
+#EXTINF:0,Real Time
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3657.ts
+#EXTINF:0,Rai yoyo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3675.ts
+#EXTINF:0,Rai Sport 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3646.ts
+#EXTINF:0,Rai Gulp
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3674.ts
+#EXTINF:0,Rai 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3624.ts
+#EXTINF:0,PrimaFila 7 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3694.ts
+#EXTINF:0,Premium Cinema HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3680.ts
+#EXTINF:0,Premium BBC Knowledge
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3683.ts
+#EXTINF:0,Premium Action
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3681.ts
+#EXTINF:0,Nat Geo Wild HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3666.ts
+#EXTINF:0,Nat Geo People HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3665.ts
+#EXTINF:0,Nat Geo HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3664.ts
+#EXTINF:0,MTV Music
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3630.ts
+#EXTINF:0,MTV Italia
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3631.ts
+#EXTINF:0,Milan Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3648.ts
+#EXTINF:0,Mediaset Italia 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3626.ts
+#EXTINF:0,Mediaset Extra
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3629.ts
+#EXTINF:0,MarcoPolo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3654.ts
+#EXTINF:0,La 7
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3627.ts
+#EXTINF:0,Italia 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3625.ts
+#EXTINF:0,Iris
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3628.ts
+#EXTINF:0,History Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3669.ts
+#EXTINF:0,Frisbee
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3673.ts
+#EXTINF:0,Fox Sports
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3641.ts
+#EXTINF:0,Fox Life HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3660.ts
+#EXTINF:0,Fox Animation HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3661.ts
+#EXTINF:0,Fox
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3659.ts
+#EXTINF:0,Focus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3662.ts
+#EXTINF:0,Fine Living
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3671.ts
+#EXTINF:0,EuroSport 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3643.ts
+#EXTINF:0,EuroSport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3642.ts
+#EXTINF:0,Eagle Serie TV 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3686.ts
+#EXTINF:0,Eagle Red Carpet HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3684.ts
+#EXTINF:0,Eagle Kids HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3685.ts
+#EXTINF:0,Eagle Cinema 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3687.ts
+#EXTINF:0,E!
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3677.ts
+#EXTINF:0,DMAX
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3658.ts
+#EXTINF:0,Disney XD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3676.ts
+#EXTINF:0,Discovery CI HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3668.ts
+#EXTINF:0,Discovery Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3667.ts
+#EXTINF:0,Cinema Max Plus 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3634.ts
+#EXTINF:0,Cinema Cult HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3635.ts
+#EXTINF:0,Cinema Comedy HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3636.ts
+#EXTINF:0,Cinema Classic HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3637.ts
+#EXTINF:0,Cartonito
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3678.ts
+#EXTINF:0,Caccia e PESCA
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3670.ts
+#EXTINF:0,Boing
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3679.ts
+#EXTINF:0,AXN Sci-Fi
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3652.ts
+#EXTINF:0,AXN
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3651.ts
+#EXTINF:0,Atlantic HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3653.ts
+#EXTINF:0,Animal Planet
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3655.ts
+#EXTINF:0,Alice
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3656.ts
+#EXTINF:0,Sky Uno
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1681.ts
+#EXTINF:0,Sky TG 24
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1674.ts
+#EXTINF:0,Sky SuperCalcio HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1692.ts
+#EXTINF:0,Sky Sport F1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1691.ts
+#EXTINF:0,Sky Sport 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1689.ts
+#EXTINF:0,Sky Sport 24 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1686.ts
+#EXTINF:0,Sky Sport 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1688.ts
+#EXTINF:0,Sky Sport 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1687.ts
+#EXTINF:0,Sky Primafila 9 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2006.ts
+#EXTINF:0,Sky Primafila 8 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2005.ts
+#EXTINF:0,Sky Primafila 7 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2004.ts
+#EXTINF:0,Sky Primafila 6 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2003.ts
+#EXTINF:0,Sky Primafila 5 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2002.ts
+#EXTINF:0,Sky Primafila 4 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2001.ts
+#EXTINF:0,Sky Primafila 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2000.ts
+#EXTINF:0,Sky Primafila 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1999.ts
+#EXTINF:0,Sky Primafila 11 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2008.ts
+#EXTINF:0,Sky Primafila 10 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2007.ts
+#EXTINF:0,Sky Primafila 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1998.ts
+#EXTINF:0,Sky Cinema Passion HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2009.ts
+#EXTINF:0,Sky Cinema Family HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2010.ts
+#EXTINF:0,Sky Cinema Comedy HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2011.ts
+#EXTINF:0,Sky Calcio 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1695.ts
+#EXTINF:0,Sky Calcio 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1694.ts
+#EXTINF:0,Sky Calcio 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1693.ts
+#EXTINF:0,Sky Atlantic HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1682.ts
+#EXTINF:0,Rete55
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2067.ts
+#EXTINF:0,Rai 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1664.ts
+#EXTINF:0,Rai 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1663.ts
+#EXTINF:0,Rai 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1662.ts
+#EXTINF:0,PrimaFila Hot Club 9 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1721.ts
+#EXTINF:0,PrimaFila Hot Club 8 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1720.ts
+#EXTINF:0,PrimaFila Hot Club 7 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1719.ts
+#EXTINF:0,PrimaFila Hot Club 6 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1718.ts
+#EXTINF:0,PrimaFila Hot Club 5 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1717.ts
+#EXTINF:0,PrimaFila Hot Club 4 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1716.ts
+#EXTINF:0,PrimaFila Hot Club 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1715.ts
+#EXTINF:0,PrimaFila Hot Club 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1714.ts
+#EXTINF:0,PrimaFila Hot Club 10 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1722.ts
+#EXTINF:0,PrimaFila Hot Club 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1713.ts
+#EXTINF:0,Premium Studio Universal
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1712.ts
+#EXTINF:0,Premium Mya
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1711.ts
+#EXTINF:0,Premium Joy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1710.ts
+#EXTINF:0,Premium Fox Sport
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1709.ts
+#EXTINF:0,Premium Energy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1708.ts
+#EXTINF:0,Premium Emotion
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1707.ts
+#EXTINF:0,Premium Disney Junior
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1706.ts
+#EXTINF:0,Premium Disney Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1705.ts
+#EXTINF:0,Premium Discovery World
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1704.ts
+#EXTINF:0,Premium Crime
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1703.ts
+#EXTINF:0,Premium Comedy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1702.ts
+#EXTINF:0,Premium Cinema
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1701.ts
+#EXTINF:0,Premium Cartoon Network
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1700.ts
+#EXTINF:0,Premium Calcio 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1699.ts
+#EXTINF:0,Premium Calcio
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1698.ts
+#EXTINF:0,Premium BBC
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1697.ts
+#EXTINF:0,Fox Life
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1685.ts
+#EXTINF:0,Fox Crime HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1683.ts
+#EXTINF:0,Fox Comedy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1684.ts
+#EXTINF:0,Cinema Plus 24 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1676.ts
+#EXTINF:0,Cinema Passion HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1680.ts
+#EXTINF:0,Cinema Max HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1679.ts
+#EXTINF:0,Cinema Hits HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1677.ts
+#EXTINF:0,Cinema Family HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1678.ts
+#EXTINF:0,Cinema 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1675.ts
+#EXTINF:0,Cielo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1671.ts
+#EXTINF:0,Canale 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1666.ts
+#EXTINF:0,Veronica/Disney XD HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4177.ts
+#EXTINF:0,Sport1 Select HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4166.ts
+#EXTINF:0,Sport1 Golf HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4168.ts
+#EXTINF:0,Sport 1 Voetbal HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4167.ts
+#EXTINF:0,Sport 1 Racing
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4140.ts
+#EXTINF:0,SBS 9
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4148.ts
+#EXTINF:0,SBS 6 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4147.ts
+#EXTINF:0,RTV Drenthe HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4155.ts
+#EXTINF:0,RTL 8
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4152.ts
+#EXTINF:0,RTL 7 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4151.ts
+#EXTINF:0,RTL 5 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4150.ts
+#EXTINF:0,RTL 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4149.ts
+#EXTINF:0,Omroep Zeeland
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4174.ts
+#EXTINF:0,NPO 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4144.ts
+#EXTINF:0,NPO 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4143.ts
+#EXTINF:0,NPO 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4142.ts
+#EXTINF:0,NET 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4145.ts
+#EXTINF:0,National Geographic
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4175.ts
+#EXTINF:0,HBO HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4156.ts
+#EXTINF:0,HBO 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4158.ts
+#EXTINF:0,HBO 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4157.ts
+#EXTINF:0,Fox Sports 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4173.ts
+#EXTINF:0,Fox Sports 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4172.ts
+#EXTINF:0,Fox Sports 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4171.ts
+#EXTINF:0,Fox Sports 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4170.ts
+#EXTINF:0,Fox Sports 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4169.ts
+#EXTINF:0,Fox Life
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4133.ts
+#EXTINF:0,Fox
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4134.ts
+#EXTINF:0,Film1 SpotLight
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4135.ts
+#EXTINF:0,Film1 Premiere HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4162.ts
+#EXTINF:0,Film 1 Comedy and Kids
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4160.ts
+#EXTINF:0,Film 1 Action
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4159.ts
+#EXTINF:0,Disney Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4141.ts
+#EXTINF:0,Discovery Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4176.ts
+#EXTINF:0,Comedy Central
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4136.ts
+#EXTINF:0,Baby TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4137.ts
+#EXTINF:0,24 Kitchen
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4139.ts
+#EXTINF:0,TV Series
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3304.ts
+#EXTINF:0,Sporting TV HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3305.ts
+#EXTINF:0,Nat Geographic Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3306.ts
+#EXTINF:0,Hollywood
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3307.ts
+#EXTINF:0,Disney Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3310.ts
+#EXTINF:0,Benfica TV 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3309.ts
+#EXTINF:0,Benfica TV 1 Full HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3308.ts
+#EXTINF:0,VeVo 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3220.ts
+#EXTINF:0,VeVo 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3219.ts
+#EXTINF:0,VeVo 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3218.ts
+#EXTINF:0,Venus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3261.ts
+#EXTINF:0,TVI Ficçao
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3215.ts
+#EXTINF:0,TVI
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3214.ts
+#EXTINF:0,TV Globo Premium
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3217.ts
+#EXTINF:0,TV Globo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3216.ts
+#EXTINF:0,TPA
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3245.ts
+#EXTINF:0,Sy-Fy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3226.ts
+#EXTINF:0,SporTV 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3225.ts
+#EXTINF:0,SporTV 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3224.ts
+#EXTINF:0,SporTV 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3223.ts
+#EXTINF:0,SporTV 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3222.ts
+#EXTINF:0,SporTV 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3221.ts
+#EXTINF:0,Sky News
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3248.ts
+#EXTINF:0,SIC Noticias
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3229.ts
+#EXTINF:0,SIC Mulher
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3228.ts
+#EXTINF:0,SIC
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3227.ts
+#EXTINF:0,RTP Memoria
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3212.ts
+#EXTINF:0,RTP Madeira
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3211.ts
+#EXTINF:0,RTP Informacao
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3213.ts
+#EXTINF:0,RTP Acores
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3210.ts
+#EXTINF:0,RTP 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3209.ts
+#EXTINF:0,RTP 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3208.ts
+#EXTINF:0,Record
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3249.ts
+#EXTINF:0,Odisseia
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3230.ts
+#EXTINF:0,Niclelodeon
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3240.ts
+#EXTINF:0,National Geographic HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3250.ts
+#EXTINF:0,MotorVision
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3251.ts
+#EXTINF:0,Motors TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3252.ts
+#EXTINF:0,Mezzo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3253.ts
+#EXTINF:0,Jim Jam
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3254.ts
+#EXTINF:0,Hot
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3260.ts
+#EXTINF:0,FX
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3231.ts
+#EXTINF:0,Fuel TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3241.ts
+#EXTINF:0,FTV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3255.ts
+#EXTINF:0,Fox Life HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3233.ts
+#EXTINF:0,Fox HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3232.ts
+#EXTINF:0,EuroSport
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3234.ts
+#EXTINF:0,EueoNews
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3235.ts
+#EXTINF:0,ETV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3246.ts
+#EXTINF:0,Economico TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3256.ts
+#EXTINF:0,E! Entertaunment
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3257.ts
+#EXTINF:0,Disney Junior
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3258.ts
+#EXTINF:0,Discovery HD ShowCase
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3247.ts
+#EXTINF:0,CNN
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3259.ts
+#EXTINF:0,CMTV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3236.ts
+#EXTINF:0,CBS Reality
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3242.ts
+#EXTINF:0,Cancao Nova
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3237.ts
+
+#EXTINF:0,Canal Historia
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3238.ts
+#EXTINF:0,AMC
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3243.ts
+#EXTINF:0,A&E
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3244.ts
+#EXTINF:0,Poccnr 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3611.ts
+#EXTINF:0,Poccnr 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3610.ts
+#EXTINF:0,Oyteon
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3613.ts
+#EXTINF:0,Cnopt 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3612.ts
+#EXTINF:0,Universal Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1495.ts
+#EXTINF:0,Tennis
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1496.ts
+#EXTINF:0,Rxtreme
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1507.ts
+#EXTINF:0,Premiera
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1487.ts
+#EXTINF:0,NTV Sport Soyuz
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1502.ts
+#EXTINF:0,NTV Sport
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1498.ts
+#EXTINF:0,NTV FootBall 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1501.ts
+#EXTINF:0,NTV FootBall 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1500.ts
+#EXTINF:0,NTV FootBall 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1499.ts
+#EXTINF:0,Nashe Novoe Kino
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1493.ts
+#EXTINF:0,Nashe Kino
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1488.ts
+#EXTINF:0,Nash FootBall
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1503.ts
+#EXTINF:0,Komedia TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1490.ts
+#EXTINF:0,KinoReys 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1485.ts
+#EXTINF:0,KinoReys 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1484.ts
+#EXTINF:0,KinoReys 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1483.ts
+#EXTINF:0,KinoReys 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1482.ts
+#EXTINF:0,KinoReys 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1481.ts
+#EXTINF:0,Kinolux
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1494.ts
+#EXTINF:0,Kinohit
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1491.ts
+#EXTINF:0,Kino Soyuz
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1486.ts
+#EXTINF:0,KHL
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1508.ts
+#EXTINF:0,India
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1489.ts
+#EXTINF:0,Extreme Sports
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1504.ts
+#EXTINF:0,EuroSport 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1506.ts
+#EXTINF:0,EuroSport 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1505.ts
+#EXTINF:0,Boets
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1509.ts
+#EXTINF:0,BasketBall
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1497.ts
+#EXTINF:0,Auto Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1510.ts
+#EXTINF:0,Amedia 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1492.ts
+#EXTINF:0,CTH Stadium X HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1628.ts
+#EXTINF:0,CTH Stadium 6 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1627.ts
+#EXTINF:0,CTH Stadium 5 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1626.ts
+#EXTINF:0,CTH Stadium 4 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1625.ts
+#EXTINF:0,CTH Stadium 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1624.ts
+#EXTINF:0,CTH Stadium 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1623.ts
+#EXTINF:0,CTH Stadium 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1622.ts
+#EXTINF:0,Yerli Sinema
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4365.ts
+#EXTINF:0,VIP Cocuk
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4369.ts
+#EXTINF:0,TRT Spor
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4349.ts
+#EXTINF:0,SmartSpor 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4347.ts
+#EXTINF:0,SmartSpor 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4346.ts
+#EXTINF:0,Sinema YesilCam 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4367.ts
+#EXTINF:0,Sinema YesilCam 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4366.ts
+#EXTINF:0,Sinema TV 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4360.ts
+#EXTINF:0,Sinema TV 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4359.ts
+#EXTINF:0,Sinema TV 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4358.ts
+#EXTINF:0,Sinema TV 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4357.ts
+#EXTINF:0,Salon 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4353.ts
+#EXTINF:0,Salon 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4352.ts
+#EXTINF:0,Salon 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4351.ts
+#EXTINF:0,NTV SmartSpor
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4348.ts
+#EXTINF:0,MoviMax Star
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4363.ts
+#EXTINF:0,MoviMax Fes
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4362.ts
+#EXTINF:0,MoviMax
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4361.ts
+#EXTINF:0,MovieSmart Gold
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4364.ts
+#EXTINF:0,Local 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4356.ts
+#EXTINF:0,Local 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4355.ts
+#EXTINF:0,Local 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4354.ts
+#EXTINF:0,LigTV 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4343.ts
+#EXTINF:0,LigTV 2 Yedek HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4345.ts
+#EXTINF:0,LigTV 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4342.ts
+#EXTINF:0,LigTV 1 Yedek HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4344.ts
+#EXTINF:0,LigTV 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4341.ts
+#EXTINF:0,Klasik TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4368.ts
+#EXTINF:0,ASpor
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4350.ts
+#EXTINF:0,TRT Cocuk
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3893.ts
+#EXTINF:0,TRT 2 Spor
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3892.ts
+#EXTINF:0,TRT 1 HD BacKUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3915.ts
+#EXTINF:0,Star TV BacKUP 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3920.ts
+#EXTINF:0,Sky360
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3894.ts
+#EXTINF:0,Show TV BackUP 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3921.ts
+#EXTINF:0,Show TV BackUP 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3623.ts
+#EXTINF:0,Planet Turk
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3617.ts
+#EXTINF:0,Planet Pembe
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3616.ts
+#EXTINF:0,Planet Mutfak
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3615.ts
+#EXTINF:0,Planet Cocuk BacKUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3916.ts
+#EXTINF:0,Planet Cocuk
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3614.ts
+#EXTINF:0,Kanal D BacKUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3918.ts
+#EXTINF:0,Kanal A
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3898.ts
+#EXTINF:0,Haber Turk
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3899.ts
+#EXTINF:0,Fox TV HD BacKUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3919.ts
+#EXTINF:0,Eski FilmLer TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3900.ts
+#EXTINF:0,CineRama TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3902.ts
+#EXTINF:0,Cinema One
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3903.ts
+#EXTINF:0,Cartoon NetWork AlterNatie
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3904.ts
+#EXTINF:0,Cartoon NetWork
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3905.ts
+#EXTINF:0,BursaSport TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3906.ts
+#EXTINF:0,Bugun TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3907.ts
+#EXTINF:0,BloomBerg TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3908.ts
+#EXTINF:0,Beyaz TV Yedek
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3909.ts
+#EXTINF:0,Beyaz TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3910.ts
+#EXTINF:0,A Spor
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3912.ts
+#EXTINF:0,A Sinema
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3913.ts
+#EXTINF:0,7/24 TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3914.ts
+#EXTINF:0,TV8
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3526.ts
+#EXTINF:0,Star TV BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3527.ts
+#EXTINF:0,Show TV BackUP
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3528.ts
+#EXTINF:0,SamanYolu
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3529.ts
+#EXTINF:0,Nat Geo Wild
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3530.ts
+#EXTINF:0,Nat Geo
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3531.ts
+#EXTINF:0,MovieSmart Platin HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3533.ts
+#EXTINF:0,MovieSmart Gold HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3534.ts
+#EXTINF:0,MovieSmart
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3532.ts
+#EXTINF:0,MovieMax Stars HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3535.ts
+#EXTINF:0,MovieMax Festival HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3536.ts
+#EXTINF:0,Kanal D
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3537.ts
+#EXTINF:0,Fox TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3538.ts
+#EXTINF:0,ATV HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3540.ts
+#EXTINF:0,ATV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3539.ts
+#EXTINF:0,LigTV 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3207.ts
+#EXTINF:0,LigTV 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3206.ts
+#EXTINF:0,LigTV 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1621.ts
+#EXTINF:0,LigTV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/1477.ts
+#EXTINF:0,Fox Türk
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2066.ts
+#EXTINF:0,ATV HD Türk
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2065.ts
+#EXTINF:0,Ten Sport
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4340.ts
+#EXTINF:0,NBA TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4339.ts
+#EXTINF:0,EPL 5 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4338.ts
+#EXTINF:0,EPL 4 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4337.ts
+#EXTINF:0,EPL 3 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4336.ts
+#EXTINF:0,EPL 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4335.ts
+#EXTINF:0,EPL 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4334.ts
+#EXTINF:0,Willow HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4040.ts
+#EXTINF:0,TLC Plus 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4041.ts
+#EXTINF:0,TLC Plus 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4042.ts
+#EXTINF:0,TLC
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4043.ts
+#EXTINF:0,Tg4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4044.ts
+#EXTINF:0,Stv
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4045.ts
+#EXTINF:0,Sports Night
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4046.ts
+#EXTINF:0,Sports Net Ontario USA
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4047.ts
+#EXTINF:0,Sports Net 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4048.ts
+#EXTINF:0,RteJr
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4052.ts
+#EXTINF:0,Qvc Style
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4053.ts
+#EXTINF:0,Qvc Beauty
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4054.ts
+#EXTINF:0,Qvc
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4055.ts
+#EXTINF:0,NBC Extra
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4056.ts
+#EXTINF:0,i24 News
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4039.ts
+#EXTINF:0,Fox News
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4036.ts
+#EXTINF:0,Eden
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4057.ts
+#EXTINF:0,CNN
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4037.ts
+#EXTINF:0,Cnbc
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4058.ts
+#EXTINF:0,Citv
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4059.ts
+#EXTINF:0,CIE
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4062.ts
+#EXTINF:0,Cbeebies
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4063.ts
+#EXTINF:0,CBBC HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4061.ts
+#EXTINF:0,CBBC
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4060.ts
+#EXTINF:0,C4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4064.ts
+#EXTINF:0,BloomBerg
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4038.ts
+#EXTINF:0,BBC World
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4034.ts
+#EXTINF:0,BBC Red Button
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4033.ts
+#EXTINF:0,BBC 2 Wales
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4032.ts
+#EXTINF:0,BBC 1 Wales
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4031.ts
+#EXTINF:0,BBC 1 Scott
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4030.ts
+#EXTINF:0,BBC 1 News
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4035.ts
+#EXTINF:0,5Star
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4050.ts
+#EXTINF:0,5SD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4051.ts
+#EXTINF:0,4Seven
+http://portal.rapidiptv.com:8080/live/90test90/90test90/4049.ts
+#EXTINF:0,USA NET
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3463.ts
+#EXTINF:0,Sport NET 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3464.ts
+#EXTINF:0,NBC HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3465.ts
+#EXTINF:0,HBO HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3462.ts
+#EXTINF:0,Big Ten Sports
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3466.ts
+#EXTINF:0,USA NetWork
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2617.ts
+#EXTINF:0,TSN Sports 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2645.ts
+#EXTINF:0,BEINSPORT1
+http://45.32.1.184:9500/startimes/serversdz/995.ch
+#EXTINF:0,SKYSPORT1 UK
+http://45.32.1.184:9500/startimes/serversdz/852.ch
+#EXTINF:0,EUROSPORT RU
+http://45.32.1.184:9500/startimes/serversdz/642.ch
+#EXTINF:0,eurosport ru
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?
+#EXTINF:0,TSN Sports 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2644.ts
+#EXTINF:0,TSN Sports 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2643.ts
+#EXTINF:0,TSN Sports 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2642.ts
+#EXTINF:0,TSN Sports 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2641.ts
+#EXTINF:0,TNT
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2618.ts
+#EXTINF:0,TBS
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2631.ts
+#EXTINF:0,Sy-Fy
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2619.ts
+#EXTINF:0,Sports Net 360
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2637.ts
+#EXTINF:0,Sport Extra 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2650.ts
+#EXTINF:0,Sport Extra 4
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2649.ts
+#EXTINF:0,Sport Extra 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2648.ts
+#EXTINF:0,Sport Extra 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2647.ts
+#EXTINF:0,Sport Extra 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2646.ts
+#EXTINF:0,Spike
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2630.ts
+#EXTINF:0,NFL
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2620.ts
+#EXTINF:0,NBSCN 1080P
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2621.ts
+#EXTINF:0,NBC Sports
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2622.ts
+#EXTINF:0,NBC Golf Channel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2623.ts
+#EXTINF:0,MTV Music
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2624.ts
+#EXTINF:0,HGTV HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2625.ts
+#EXTINF:0,H2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2626.ts
+#EXTINF:0,Fox TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2627.ts
+#EXTINF:0,Fox Sport 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2636.ts
+#EXTINF:0,Fox Sport 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2635.ts
+#EXTINF:0,Food Network HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2628.ts
+#EXTINF:0,ESPN News
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2634.ts
+#EXTINF:0,ESPN
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2633.ts
+#EXTINF:0,CBS HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2629.ts
+#EXTINF:0,BeinSport
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2632.ts
+#EXTINF:0,SRF Info
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2060.ts
+#EXTINF:0,SRF HD 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3461.ts
+#EXTINF:0,SRF HD 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3460.ts
+#EXTINF:0,SRF 2 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2061.ts
+#EXTINF:0,SRF 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2062.ts
+#EXTINF:0,SRF 1 HD
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2063.ts
+#EXTINF:0,SRF 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2064.ts
+#EXTINF:0,MTV Dance
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3831.ts
+#EXTINF:0,MKTV 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3829.ts
+#EXTINF:0,Cartoon Network
+http://portal.rapidiptv.com:8080/live/90test90/90test90/3830.ts
+#EXTINF:0,Top Sound
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2601.ts
+#EXTINF:0,Telma
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2602.ts
+#EXTINF:0,Sitel 3
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2605.ts
+#EXTINF:0,Sitel
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2604.ts
+#EXTINF:0,Salon Extra
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2603.ts
+#EXTINF:0,PTPC
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2606.ts
+#EXTINF:0,Plus 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2607.ts
+#EXTINF:0,Osjecka TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2608.ts
+#EXTINF:0,NTVO
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2609.ts
+#EXTINF:0,Net TV Info
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2610.ts
+#EXTINF:0,MPT 1
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2611.ts
+#EXTINF:0,MKTV 2 Sat
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2056.ts
+#EXTINF:0,MKTV 2
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2055.ts
+#EXTINF:0,Kanal 5 Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2613.ts
+#EXTINF:0,Kanal 5
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2612.ts
+#EXTINF:0,Duga
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2614.ts
+#EXTINF:0,Banovina TV
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2615.ts
+#EXTINF:0,Banovina Glina
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2616.ts
+#EXTINF:0,4 Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2057.ts
+#EXTINF:0,3 Sat
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2059.ts
+#EXTINF:0,3 Plus
+http://portal.rapidiptv.com:8080/live/90test90/90test90/2058.ts
