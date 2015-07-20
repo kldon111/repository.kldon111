@@ -1,5 +1,5 @@
 [
-{"url": "https://raw.githubusercontent.com/kldon111/arablists/master/m3u/arabic%20movies.m3u", "name": " [COLOR yellow]bein sports full hd ubdate 20/07/2015[/COLOR]"}"},
+{"url": "https://raw.githubusercontent.com/kldon111/arablists/master/m3u/arabic%20movies.m3u", "name": "[COLOR yellow]bein sports full hd ubdate 20/07/2015[/COLOR]"},
 {"url": "https://raw.githubusercontent.com/kldon111/arablists/master/m3u/bein.sports.hd.m3u", "name": "[COLOR yellow]bein sports full hd ubdate 09/07/2015[/COLOR]"},
 {"url": "https://raw.githubusercontent.com/kldon111/arablists/master/m3u/araball.m3u", "name": "[COLOR red]arab all ubdate 09/07/2015[/COLOR]"},
 {"url": "https://raw.githubusercontent.com/kldon111/arablists/master/m3u/arabic.m3u", "name": "[COLOR yellow]arabic ubdate 09/07/2015[/COLOR]"},
