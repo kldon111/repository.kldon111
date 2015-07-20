@@ -1,0 +1,756 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR green] --Updated 10/07/15 @ 12:50am made by:mfaraj,kldon--[/COLOR]   
+https://www.youtube.com/watch?v=P6CobLkKuEU
+#EXTINF:-1, [COLOR green] --Updated from www.dreamoem.com$www.tunisia-sat.com--[/COLOR] 
+https://www.youtube.com/watch?v=bkCgM9GHcWI
+#EXTINF:0,MBC
+http://50.23.65.8/live/mbc/index.m3u8
+#EXTINF:0,DREAM1
+http://50.23.65.8/live/dream1/index.m3u8
+#EXTINF:0,DREAM2
+http://50.23.65.8/live/dream2/index.m3u8
+#EXTINF:0,rotana_classic
+http://50.23.65.8/live/rotana_classic/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/rotana_massriya/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/rotana_khalijiah/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/rotana_cinema_plus/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/rotana_massriya_plus/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/rotana_khalijiah_plus/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/set_el_bait/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/set_el_bait_plus/index.m3u8
+#EXTINF:0,ON TV
+http://50.23.65.8/live/ontv/index.m3u
+#EXTINF:0,ON TV LIVE
+http://50.23.65.8/live/ontv_live/index.m3u8
+#EXTINF:0,ON TV PLUS
+http://50.23.65.8live/ontv_plus/index.m3u8
+#EXTINF:0,ON TV LIVE PLUS
+http://50.23.65.8/live/ontv_live_plus/index.m3u8
+#EXTINF:0,el_mehwar_plus
+http://50.23.65.8/live/el_mehwar_plus/index.m3u8
+#EXTINF:0,al nahar + 2
+http://50.23.65.8/live/al-nahar_plus2/index.m3u8
+#EXTINF:0,al-nahar_drama
+http://50.23.65.8/live/al-nahar_drama/index.m3u8
+#EXTINF:0,al-nahar_al_youm
+http://50.23.65.8/live/al-nahar_al_youm/index.m3u8
+#EXTINF:0,al-nahar_al_youm
+http://50.23.65.8/live/al-nahar_al_youm/index.m3u8
+#EXTINF:0,al-nahar_drama
+http://50.23.65.8/live/al_kahera_wal_nas/index.m3u8
+#EXTINF:0,faraeen_channel
+http://50.23.65.8/live/al_kahera_wal_nas_plus/index.m3u8
+#EXTINF:0,faraeen_channel
+http://50.23.65.8/live/faraeen_channel/index.m3u8
+#EXTINF:0,cbc_extra
+http://50.23.65.8/live/cbc_plus/index.m3u8
+#EXTINF:0,cbc_extra
+http://50.23.65.8/live/cbc_extra/index.m3u8
+#EXTINF:0,cbc_sofra
+http://50.23.65.8/live/cbc_sofra/index.m3u8
+#EXTINF:0,cbc_sofra
+http://50.23.65.8/live/cbc_sofra/index.m3u8
+#EXTINF:0,cbc_drama
+http://50.23.65.8/live/cbc_drama/index.m3u8
+#EXTINF:0,cbc_extra_plus
+http://50.23.65.8/live/cbc_extra_plus/index.m3u8
+#EXTINF:0,cbc_sofra_plus
+http://50.23.65.8/live/cbc_sofra_plus/index.m3u8
+#EXTINF:0,cbc_drama_plus
+http://50.23.65.8/live/cbc_drama_plus/index.m3u8
+#EXTINF:0,al_oula_egypt
+http://50.23.65.8/live/al_oula_egypt/index.m3u8
+#EXTINF:0,CBC TWO
+http://50.23.65.8/live/cbc_two/index.m3u8
+#EXTINF:0,CBC TWO +
+http://50.23.65.8/live/cbc_two_plus/index.m3u8
+#EXTINF:0,sada_el_balad
+http://50.23.65.8/live/sada_el_balad/index.m3u8
+#EXTINF:0,sada_el_balad
+http://50.23.65.8/live/sada_el_balad/index.m3u8
+#EXTINF:0,FB:ANIS SAT
+http://50.23.65.8/live/sada_el_balad_drama/index.m3u8
+#EXTINF:0,sada_el_balad_drama
+http://50.23.65.8/live/sada_el_balad_drama/index.m3u8
+#EXTINF:0,sada_el_balad_plus
+http://50.23.65.8/live/sada_el_balad_plus/index.m3u8
+#EXTINF:0,sada_el_balad_drama_plus
+http://50.23.65.8/live/sada_el_balad_drama_plus/index.m3u8
+#EXTINF:0,nile_cinema
+http://50.23.65.8/live/nile_cinema/index.m3u8
+#EXTINF:0,nile_comedy
+http://50.23.65.8/live/nile_comedy/index.m3u8
+#EXTINF:0,nile_news
+http://50.23.65.8/live/nile_news/index.m3u8
+#EXTINF:0,nile_family
+http://50.23.65.8/live/nile_family/index.m3u8
+#EXTINF:0,nile_culture
+http://50.23.65.8/live/nile_culture/index.m3u8
+#EXTINF:0,nile_culture
+http://50.23.65.8/live/nile_culture/index.m3u8
+#EXTINF:0,nile_life
+http://50.23.65.8/live/nile_life/index.m3u8
+#EXTINF:0,nile_cinema_plus
+http://50.23.65.8/live/nile_cinema_plus/index.m3u8
+#EXTINF:0,nile_comedy_plus
+http://50.23.65.8/live/nile_comedy_plus/index.m3u8
+#EXTINF:0,nile_news_plus
+http://50.23.65.8/live/nile_news_plus/index.m3u8
+#EXTINF:0,nile_family_plus
+http://50.23.65.8/live/nile_family_plus/index.m3u8
+#EXTINF:0,nile_culture_plus
+http://50.23.65.8/live/nile_culture_plus/index.m3u8
+#EXTINF:0,nile_life_plus
+http://50.23.65.8/live/nile_life_plus/index.m3u8
+#EXTINF:0,nile_life_plus
+http://50.23.65.8/live/nile_life_plus/index.m3u8
+#EXTINF:0,panorama_film
+http://50.23.65.8/live/panorama_film/index.m3u8
+#EXTINF:0,panorama_drama
+http://50.23.65.8/live/panorama_cinema/index.m3u8
+#EXTINF:0,panorama_drama_1
+http://50.23.65.8/live/panorama_drama_i/index.m3u8
+#EXTINF:0,panorama_drama_2
+http://50.23.65.8/live/panorama_drama_ii/index.m3u8
+#EXTINF:0,panorama_comedy
+http://50.23.65.8/live/panorama_comedy/index.m3u8
+#EXTINF:0,panorama_comedy
+http://50.23.65.8/live/panorama_comedy/index.m3u8
+#EXTINF:0,panorama_film_plus
+http://50.23.65.8/live/panorama_film_plus/index.m3u8
+#EXTINF:0,panorama_cinema_plus
+http://50.23.65.8/live/panorama_cinema_plus/index.m3u8
+#EXTINF:0,panorama_drama_1_plus
+http://50.23.65.8/live/panorama_drama_i_plus/index.m3u8
+#EXTINF:0,panorama_drama_2_plus
+http://50.23.65.8/live/panorama_drama_ii_plus/index.m3u8
+#EXTINF:0,panorama_comedy_plus
+http://50.23.65.8/live/panorama_comedy_plus/index.m3u8
+#EXTINF:0,time_drama
+http://50.23.65.8/live/time_drama/index.m3u8
+#EXTINF:0,time_comedy
+http://50.23.65.8/live/time_comedy/index.m3u8
+#EXTINF:0,time_turki
+http://50.23.65.8/live/time_turki/index.m3u8
+#EXTINF:0,time_film
+http://50.23.65.8/live/time_film/index.m3u8
+#EXTINF:0,time_film
+http://50.23.65.8/live/time_film/index.m3u8
+#EXTINF:0,time_action
+http://50.23.65.8/live/time_action/index.m3u
+#EXTINF:0,time_cinema_1_plus
+http://50.23.65.8/live/time_cinema_i_plus/index.m3u8
+#EXTINF:0,time_cinema_2_plus
+http://50.23.65.8/live/time_cinema_2_plus/index.m3u8
+#EXTINF:0,time_drama_plus
+http://50.23.65.8/live/time_drama_plus/index.m3u8
+#EXTINF:0,time_comedy_plus
+http://50.23.65.8/live/time_comedy_plus/index.m3u8
+#EXTINF:0,time_turki_plus
+http://50.23.65.8/live/time_turki_plus/index.m3u8
+#EXTINF:0,time_film_plus
+http://50.23.65.8/live/time_film_plus/index.m3u8
+#EXTINF:0,time_taxi_plus
+http://50.23.65.8/live/time_taxi_plus/index.m3u8
+#EXTINF:0,time_action_plus
+http://50.23.65.8/live/time_action_plus/index.m3u8
+#EXTINF:0,time_action_plus
+http://50.23.65.8/live/time_action_plus/index.m3u8
+#EXTINF:0,darbaka_aflam
+http://50.23.65.8/live/darbaka_aflam/index.m3u8
+#EXTINF:0,darbaka_aflam
+http://50.23.65.8/live/darbaka_aflam/index.m3u8
+#EXTINF:0,darbaka_cinema
+http://50.23.65.8/live/darbaka_cinema/index.m3u8
+#EXTINF:0,darbaka_aflam_plus
+http://50.23.65.8/live/darbaka_aflam_plus/index.m3u8
+#EXTINF:0,cairo_zaman
+http://50.23.65.8/live/cairo_zaman/index.m3u8
+#EXTINF:0,cairo_cinema
+http://50.23.65.8/live/cairo_cinema/index.m3u8
+#EXTINF:0,cairo_drama
+http://50.23.65.8/live/cairo_drama/index.m3u8
+#EXTINF:0,cairo_cinema_plus
+http://50.23.65.8/live/cairo_cinema_plus/index.m3u8
+#EXTINF:0,airo_zaman_plus
+http://50.23.65.8/live/cairo_zaman_plus/index.m3u8
+#EXTINF:0,cairo_drama_plus
+http://50.23.65.8/live/cairo_drama_plus/index.m3u8
+#EXTINF:0,lcd_aflam
+http://50.23.65.8/live/lcd_aflam/index.m3u8
+#EXTINF:0,toktok_cinema
+http://50.23.65.8/live/toktok_cinema/index.m3u8
+#EXTINF:0,almasraweya_aflam
+http://50.23.65.8/live/almasraweya_aflam/index.m3u8
+#EXTINF:0,cima_shobra_palace
+http://50.23.65.8/live/cima_shobra_palace/index.m3u8
+#EXTINF:0,cima_shobra_palace
+http://50.23.65.8/live/cima_shobra_palace/index.m3u8
+#EXTINF:0,al_shasha
+http://50.23.65.8/live/al_shasha/index.m3u8
+#EXTINF:0,al_shasha
+http://50.23.65.8/live/al_shasha/index.m3u8
+#EXTINF:0,kalb_el_asad
+http://50.23.65.8/live/kalb_el_asad/index.m3u8
+#EXTINF:0,time_ekhtarna_lak
+http://50.23.65.8/live/time_ekhtarna_lak/index.m3u8
+#EXTINF:0,time_ekhtarna_lak
+http://50.23.65.8/live/time_ekhtarna_lak/index.m3u8
+#EXTINF:0,halawet_rooh
+http://50.23.65.8/live/halawet_rooh/index.m3u8
+#EXTINF:0,abla_fahita
+http://50.23.65.8/live/abla_fahita/index.m3u8
+#EXTINF:0,abla_fahita
+http://50.23.65.8/live/abla_fahita/index.m3u8
+#EXTINF:0,abc_aflam
+http://50.23.65.8/live/abc_aflam/index.m3u8
+#EXTINF:0,rotana_moussica
+http://50.23.65.8/live/rotana_moussica/index.m3u8
+#EXTINF:0,rotana_moussica
+http://50.23.65.8/live/rotana_moussica/index.m3u8
+#EXTINF:0,rotana_clip
+http://50.23.65.8/live/rotana_clip/index.m3u8
+#EXTINF:0,sha3beyat
+http://50.23.65.8/live/sha3beyat/index.m3u8
+#EXTINF:0,top_movies
+http://50.23.65.8/live/top_movies/index.m3u8
+#EXTINF:0,top_movies
+http://50.23.65.8/live/top_movies/index.m3u8
+#EXTINF:0,sama_dubai
+http://50.23.65.8/live/sama_dubai/index.m3u8
+#EXTINF:0,al_qithara_tv
+http://50.23.65.8/live/al_qithara_tv/index.m3u8
+#EXTINF:0,arab_woman
+http://50.23.65.8/live/arab_woman/index.m3u8
+#EXTINF:0,nile_sport
+http://50.23.65.8/live/al_nahar_sport/index.m3u8
+#EXTINF:0,nile_sport_plus7
+http://50.23.65.8/live/al_nahar_sport_plus7/index.m3u8
+#EXTINF:0,nile_sport
+http://50.23.65.8/live/nile_sport/index.m3u8
+#EXTINF:0,nile_sport_plus7
+http://50.23.65.8/live/nile_sport_plus7/index.m3u8
+#EXTINF:0,abu_dhabi_sports
+http://50.23.65.8/live/abu_dhabi_sports/index.m3u8
+#EXTINF:0,syria_drama
+http://50.23.65.8/live/syria_drama/index.m3u8
+#EXTINF:0,nessma
+http://50.23.65.8/live/nessma/index.m3u8
+#EXTINF:0,syria_sat
+http://50.23.65.8/live/syria_sat/index.m3u8
+#EXTINF:0,jordan_tv
+http://50.23.65.8/live/jordan_tv/index.m3u8
+#EXTINF:0,libya_alhurra
+http://50.23.65.8/live/libya_alhurra/index.m3u8
+#EXTINF:0,al_maghribia
+http://50.23.65.8/live/al_maghribia/index.m3u8
+#EXTINF:0,ktv_1
+http://50.23.65.8/live/ktv_i/index.m3u8
+#EXTINF:0,ktv_2
+http://50.23.65.8/live/ktv_ii/index.m3u8
+#EXTINF:0,ktv_3
+http://50.23.65.8/live/ktv_iii/index.m3u8
+#EXTINF:0,TRT 6
+http://50.23.65.8/live/trt_6/index.m3u8
+#EXTINF:0,al_sumariya
+http://50.23.65.8/al_sumariya/index.m3u8
+#EXTINF:0,al_sharqiya
+http://50.23.65.8/live/al_sharqiya/index.m3u8
+#EXTINF:0,al_sharqiya
+http://50.23.65.8/live/al_sharqiya/index.m3u8
+#EXTINF:0,al_baghdadia
+http://50.23.65.8/live/al_baghdadia/index.m3u8
+#EXTINF:0,france_24_english
+http://50.23.65.8/live/france_24_english/index.m3u8
+#EXTINF:0,russia_today
+http://50.23.65.8/live/russia_today/index.m3u8
+#EXTINF:0,BBC ARABIC
+http://50.23.65.8/live/bbc_arabic/index.m3u8
+#EXTINF:0,koky_kids
+http://50.23.65.8/live/koky_kids/index.m3u8
+#EXTINF:0,smile_of_a_child
+http://50.23.65.8/live/smile_of_a_child/index.m3u8
+#EXTINF:0,kidzinia
+http://50.23.65.8/live/kidzinia/index.m3u8
+#EXTINF:0,sat7_kids
+http://50.23.65.8/live/sat7_kids/index.m3u8
+#EXTINF:0,CTV
+http://50.23.65.8/live/ctv/index.m3u8
+#EXTINF:0,logos
+http://50.23.65.8/live/logos/index.m3u8
+#EXTINF:0,al_horreya
+http://50.23.65.8live/al_horreya/index.m3u8
+#EXTINF:0,cyc_tv
+http://50.23.65.8/live/cyc_tv/index.m3u8
+#EXTINF:0,coptic_sat
+http://50.23.65.8/live/coptic_sat/index.m3u8
+#EXTINF:0,me_sat
+http://50.23.65.8/live/me_sat/index.m3u8
+#EXTINF:0,al_resalla
+http://50.23.65.8/live/al_resalla/index.m3u8
+#EXTINF:0,al_resalla
+http://50.23.65.8/live/al_resalla/index.m3u8
+#EXTINF:0,azhari
+http://50.23.65.8/live/azhari/index.m3u8
+#EXTINF:0,time_quran
+http://50.23.65.8/live/time_quran/index.m3u8
+#EXTINF:0,amjad_tv
+http://50.23.65.8/live/amjad_tv/index.m3u8
+#EXTINF:0,amjad_tv
+http://50.23.65.8/live/amjad_tv/index.m3u8
+#EXTINF:0,al_majd
+http://50.23.65.8/live/al_majd/index.m3u8
+#EXTINF:0,al_majd
+http://50.23.65.8/live/al_majd/index.m3u8
+#EXTINF:0,al_naeem_tv
+http://50.23.65.8/live/al_naeem_tv/index.m3u8
+#EXTINF:0,russia_today
+http://50.23.65.8/live/russia_today/index.m3u8
+#EXTINF:0,abc_aflam
+http://50.23.65.8/live/abc_aflam/index.m3u8
+#EXTINF:0,abla_fahita
+http://50.23.65.8/live/abla_fahita/index.m3u8
+#EXTINF:0,abu_dhabi_sports
+http://50.23.65.8/live/abu_dhabi_sports/index.m3u8
+#EXTINF:0,Addounia TV
+rtmp://sama-tv.net/live/samatv
+#EXTINF:0,Al Falstiniah TV
+rtmp://46.43.64.166/flv/flv
+#EXTINF:0,Al Hayat
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+#EXTINF:0,Al Maaref
+http://almaareftv.com:1935/live/1/HasBahCa.m3u8
+#EXTINF:0,Al Maaref TV
+rtmp://almaareftv.com/live/1
+#EXTINF:0,Al Nabaa
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:0,Al Oula TV
+rtmp://82.137.248.21/Aloula/AloulaLive2
+#EXTINF:0,Al Sharqiya News
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+#EXTINF:0,Al yawm
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:0,al_baghdadia
+http://50.23.65.8/live/al_baghdadia/index.m3u8
+#EXTINF:0,al_horreya/index.m3u8
+http://50.23.65.8live/al_horreya/index.m3u8
+#EXTINF:0,al_kahera_wal_nas
+http://50.23.65.8/live/al_kahera_wal_nas/index.m3u8
+#EXTINF:0,al_kahera_wal_nas_plus
+http://50.23.65.8/live/al_kahera_wal_nas_plus/index.m3u8
+#EXTINF:0,al_maghribia
+http://50.23.65.8/live/al_maghribia/index.m3u8
+#EXTINF:0,al_majd
+http://50.23.65.8/live/al_majd/index.m3u8
+#EXTINF:0,al_naeem_tv
+http://50.23.65.8/live/al_naeem_tv/index.m3u8
+#EXTINF:0,al_nahar_sport
+http://50.23.65.8/live/al_nahar_sport/index.m3u8
+#EXTINF:0,al_nahar_sport_plus7
+http://50.23.65.8/live/al_nahar_sport_plus7/index.m3u8
+#EXTINF:0,al_oula_egypt
+http://50.23.65.8/live/al_oula_egypt/index.m3u8
+#EXTINF:0,al_qithara_tv
+http://50.23.65.8/live/al_qithara_tv/index.m3u8
+#EXTINF:0,al_resalla
+http://50.23.65.8/live/al_resalla/index.m3u8
+#EXTINF:0,al_sharqiya
+http://50.23.65.8/live/al_sharqiya/index.m3u8
+#EXTINF:0,al_shasha
+http://50.23.65.8/live/al_shasha/index.m3u8
+#EXTINF:0,al_sumariya
+http://50.23.65.8/al_sumariya/index.m3u8
+#EXTINF:0,Al-Baghdadia 2
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+#EXTINF:0,Alfady TV
+rtmp://stream.truth-voice.net/FadyLive//FadyLive
+#EXTINF:0,Alhurra TV
+rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
+#EXTINF:0,Aljazeera Arabic
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+#EXTINF:0,AlJazeera Children
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
+#EXTINF:0,Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:0,Al-Manar TV
+rtmp://38.96.148.204/liveedge//livestream_360p
+#EXTINF:0,almasraweya_aflam
+http://50.23.65.8/live/almasraweya_aflam/index.m3u8
+#EXTINF:0,al-nahar_al_youm
+http://50.23.65.8/live/al-nahar_al_youm/index.m3u8
+#EXTINF:0,al-nahar_drama
+http://50.23.65.8/live/al-nahar_drama/index.m3u8
+#EXTINF:0,al-nahar_plus2
+http://50.23.65.8/live/al-nahar_plus2/index.m3u8
+#EXTINF:0,Al-Quds
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,amjad_tv
+http://50.23.65.8/live/amjad_tv/index.m3u8
+#EXTINF:0,ANN News
+rtmp://ns8.indexforce.com/ann/ann
+#EXTINF:0,arab_woman
+http://50.23.65.8/live/arab_woman/index.m3u8
+#EXTINF:0,azhari
+http://50.23.65.8/live/azhari/index.m3u8
+#EXTINF:0,B ***HasBahCa IPTV***
+http://bilgidiyari.net/m3u/turkiye.mp4
+#EXTINF:0,Baghdad tv
+http://streamer1.hamuraabi.com:1935/baghdad/live/HasBahCa.m3u8
+#EXTINF:0,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:0,bbc_arabic
+http://50.23.65.8/live/bbc_arabic/index.m3u8
+#EXTINF:0,Bidari rtsp
+rtsp://bidari.streamwebtown.com/bidaritv
+#EXTINF:0,cairo_cinema
+http://50.23.65.8/live/cairo_cinema/index.m3u8
+#EXTINF:0,cairo_cinema_plus
+http://50.23.65.8/live/cairo_cinema_plus/index.m3u8
+#EXTINF:0,cairo_drama
+http://50.23.65.8/live/cairo_drama/index.m3u8
+#EXTINF:0,cairo_drama_plus
+http://50.23.65.8/live/cairo_drama_plus/index.m3u8
+#EXTINF:0,cairo_zaman
+http://50.23.65.8/live/cairo_zaman/index.m3u8
+#EXTINF:0,cairo_zaman_plus
+http://50.23.65.8/live/cairo_zaman_plus/index.m3u8
+#EXTINF:0,Canal Algérie
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:0,cbc_drama
+http://50.23.65.8/live/cbc_drama/index.m3u8
+#EXTINF:0,cbc_drama plus
+http://50.23.65.8/live/cbc_drama_plus/index.m3u8
+#EXTINF:0,cbc_extra
+http://50.23.65.8/live/cbc_extra/index.m3u8
+#EXTINF:0,cbc_extra plus
+http://50.23.65.8/live/cbc_extra_plus/index.m3u8
+#EXTINF:0,cbc_plus
+http://50.23.65.8/live/cbc_plus/index.m3u8
+#EXTINF:0,cbc_sofra
+http://50.23.65.8/live/cbc_sofra/index.m3u8
+#EXTINF:0,cbc_sofra plus
+http://50.23.65.8/live/cbc_sofra_plus/index.m3u8
+#EXTINF:0,cbc_two
+http://50.23.65.8/live/cbc_two/index.m3u8
+#EXTINF:0,cbc_two plus
+http://50.23.65.8/live/cbc_two_plus/index.m3u8
+#EXTINF:0,cima_shobra_palace
+http://50.23.65.8/live/cima_shobra_palace/index.m3u8
+#EXTINF:0,coptic_sat
+http://50.23.65.8/live/coptic_sat/index.m3u8
+#EXTINF:0,ctv
+http://50.23.65.8/live/ctv/index.m3u8
+#EXTINF:0,cyc
+http://50.23.65.8/live/cyc_tv/index.m3u8
+#EXTINF:0,darbaka_aflam
+http://50.23.65.8/live/darbaka_aflam/index.m3u8
+#EXTINF:0,darbaka_aflam_plus
+http://50.23.65.8/live/darbaka_aflam_plus/index.m3u8
+#EXTINF:0,darbaka_cinema
+http://50.23.65.8/live/darbaka_cinema/index.m3u8
+#EXTINF:0,Dijlah TV
+rtmp://stream.joinvisions.net/dij//dij
+#EXTINF:0,dream1
+http://50.23.65.8/live/dream1/index.m3u8
+#EXTINF:0,dream2
+http://50.23.65.8/live/dream2/index.m3u8
+#EXTINF:0,DW Arabia
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:0,E ***HasBahCa IPTV***
+http://bilgidiyari.net/m3u/turkiye.mp4
+#EXTINF:0,el_mehwar_plus
+http://50.23.65.8/live/el_mehwar_plus/index.m3u8
+#EXTINF:0,faraeen_channel
+http://50.23.65.8/live/faraeen_channel/index.m3u8
+#EXTINF:0,Funoon TV
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+#EXTINF:0,GEM Bollywood
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-gembollywood-live-25f-16x9-HD?ref=www.gemonline.tv&USER=Gem+Bollywood
+#EXTINF:0,GEM Junior Live
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-junior-live-25f-4x3-SDq?ref=www.gemonline.tv&USER=GEM+Junior
+#EXTINF:0,GEM LIFE
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-life1-live-25f-16x9-HD?ref=www.gemonline.tv&USER=Life+1
+#EXTINF:0,GEM MIFA MUSIC
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-mifa-live-16x9-SDq?ref=www.gemonline.tv&USER=MIFA+MUSIC
+#EXTINF:0,GEM ONYX
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-onyx-live-16x9-HD?ref=www.gemonline.tv&USER=ONYX
+#EXTINF:0,GEM RIVER
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-river-live-16x9-HD?ref=www.gemonline.tv&USER=River+HD
+#EXTINF:0,GEM RUBIX
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-rubix-live-16x9-HD?ref=www.gemonline.tv&USER=RUBIX+HD
+#EXTINF:0,GEM Travel
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-travel-live-25f-16x9-SD?ref=www.gemonline.tv&USER=0-100
+#EXTINF:0,GEM TV
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-gemtv-live-25f-16x9-SDq?ref=www.gemonline.tv&USER=GEM+TV
+#EXTINF:0,Halab Today TV
+rtmp://streaming.tootvs.com/8010/8010
+#EXTINF:0,halawet_rooh/index.m3u8
+http://50.23.65.8/live/halawet_rooh/index.m3u8
+#EXTINF:0,I ***HasBahCa IPTV***
+http://bilgidiyari.net/m3u/turkiye.mp4
+#EXTINF:0,i24 News Arabia
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+#EXTINF:0,IRAN ASRE_EMROZZ
+http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
+#EXTINF:0,IRAN CHANNEL_ONE
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+#EXTINF:0,IRAN GEM_KURD
+http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
+#EXTINF:0,IRAN GEM_TRAVEL
+http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
+#EXTINF:0,IRAN IRINN
+http://63.237.48.3/ios/IRINN/IRINN.m3u8
+#EXTINF:0,IRAN ITC TV
+http://63.237.48.3/ios/ITC/ITC.m3u8
+#EXTINF:0,IRAN JAME_JAM
+http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
+#EXTINF:0,IRAN Mbc 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+#EXTINF:0,IRAN MBC_ACTION m3u8
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:0,IRAN MBC_BOLLYWOOD m3u8
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:0,IRAN MBC_MAX m3u8
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:0,IRAN ONYX HD
+http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
+#EXTINF:0,IRAN PNG
+http://63.237.48.3/ios/PNG/PNG.m3u8
+#EXTINF:0,IRAN QURAN_TV m3u8
+http://63.237.48.3/ios/QURAN_TV/QURAN_TV.m3u8
+#EXTINF:0,IRAN TAPESH
+http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
+#EXTINF:0,IRAN VARZESH_TV m3u8
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:0,IRAN VELAYAT m3u8
+http://63.237.48.3/ios/VELAYAT_TV/VELAYAT_TV.m3u8
+#EXTINF:0,Iraqiya
+http://212.7.205.5:1935/Iraqia/live/HasBahCa.m3u8
+#EXTINF:0,Iraqiya Sport
+http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
+#EXTINF:0,jordan_tv/index.m3u8
+http://50.23.65.8/live/jordan_tv/index.m3u8
+#EXTINF:0,kalb_el_asad/index.m3u8
+http://50.23.65.8/live/kalb_el_asad/index.m3u8
+#EXTINF:0,KAS
+http://137.135.64.32:1935/kas/kas/HasBahCa.m3u8
+#EXTINF:0,kidzinia/index.m3u8
+http://50.23.65.8/live/kidzinia/index.m3u8
+#EXTINF:0,koky_kids/index.m3u8
+http://50.23.65.8/live/koky_kids/index.m3u8
+#EXTINF:0,KTV PLUS
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
+#EXTINF:0,KTV Sport Extra
+rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
+#EXTINF:0,ktv_i/index.m3u8
+http://50.23.65.8/live/ktv_i/index.m3u8
+#EXTINF:0,ktv_ii/index.m3u8
+http://50.23.65.8/live/ktv_ii/index.m3u8
+#EXTINF:0,ktv_iii/index.m3u8
+http://50.23.65.8/live/ktv_iii/index.m3u8
+#EXTINF:0,lcd_aflam/index.m3u8
+http://50.23.65.8/live/lcd_aflam/index.m3u8
+#EXTINF:0,Libya Awalan TV
+rtmp://41.128.145.24:1935/LibyaAwalan/LibyaAwalanStream
+#EXTINF:0,Libya TV
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:0,libya_alhurra/index.m3u8
+http://50.23.65.8/live/libya_alhurra/index.m3u8
+#EXTINF:0,live/kidzinia/index.m3u8
+http://50.23.65.8/live/kidzinia/index.m3u8
+#EXTINF:0,logos/index.m3u8
+http://50.23.65.8/live/logos/index.m3u8
+#EXTINF:0,logos/index.m3u8
+http://50.23.65.8/live/logos/index.m3u8
+#EXTINF:0,M ***HasBahCa IPTV***
+http://bilgidiyari.net/m3u/turkiye.mp4
+#EXTINF:0,MBC 2
+rtmp://63.237.48.8/live//MBC2
+#EXTINF:0,MBC 4
+rtmp://63.237.48.8:1935/live/MBC_4
+#EXTINF:0,mbc/index.m3u8
+http://50.23.65.8/live/mbc/index.m3u8
+#EXTINF:0,mbc_max
+rtmp://63.237.48.23/live//MBC_MAX
+#EXTINF:0,me_sat/index.m3u8
+http://50.23.65.8/live/me_sat/index.m3u8
+#EXTINF:0,Mekke
+http://46.245.160.224/mekke/mekke/HasBahCa.m3u8
+#EXTINF:0,Mosul TV
+rtmp://ns1.indexforce.com/mosultv/mystream
+#EXTINF:0,N ***HasBahCa IPTV***
+http://bilgidiyari.net/m3u/turkiye.mp4
+#EXTINF:0,nessma/index.m3u8
+http://50.23.65.8/live/nessma/index.m3u8
+#EXTINF:0,nile_cinema/index.m3u8
+http://50.23.65.8/live/nile_cinema/index.m3u8
+#EXTINF:0,nile_cinema_plus/index.m3u8
+http://50.23.65.8/live/nile_cinema_plus/index.m3u8
+#EXTINF:0,nile_comedy/index.m3u8
+http://50.23.65.8/live/nile_comedy/index.m3u8
+#EXTINF:0,nile_comedy_plus/index.m3u8
+http://50.23.65.8/live/nile_comedy_plus/index.m3u8
+#EXTINF:0,nile_culture/index.m3u8
+http://50.23.65.8/live/nile_culture/index.m3u8
+#EXTINF:0,nile_culture_plus/index.m3u8
+http://50.23.65.8/live/nile_culture_plus/index.m3u8
+#EXTINF:0,nile_family/index.m3u8
+http://50.23.65.8/live/nile_family/index.m3u8
+#EXTINF:0,nile_family_plus/index.m3u8
+http://50.23.65.8/live/nile_family_plus/index.m3u8
+#EXTINF:0,nile_life/index.m3u8
+http://50.23.65.8/live/nile_life/index.m3u8
+#EXTINF:0,nile_life_plus/index.m3u8
+http://50.23.65.8/live/nile_life_plus/index.m3u8
+#EXTINF:0,nile_news/index.m3u8
+http://50.23.65.8/live/nile_news/index.m3u8
+#EXTINF:0,nile_news_plus/index.m3u8
+http://50.23.65.8/live/nile_news_plus/index.m3u8
+#EXTINF:0,nile_sport/index.m3u8
+http://50.23.65.8/live/nile_sport/index.m3u8
+#EXTINF:0,nile_sport_plus7/index.m3u8
+http://50.23.65.8/live/nile_sport_plus7/index.m3u8
+#EXTINF:0,Nour El-Sham
+rtmp://82.137.248.21/Nour/NourLive2
+#EXTINF:0,ontv/index.m3u
+http://50.23.65.8/live/ontv/index.m3u
+#EXTINF:0,ontv_live/index.m3u8
+http://50.23.65.8/live/ontv_live/index.m3u8
+#EXTINF:0,ontv_live_plus/index.m3u
+http://50.23.65.8/live/ontv_live_plus/index.m3u
+#EXTINF:0,ontv_plus/index.m3u8
+http://50.23.65.8live/ontv_plus/index.m3u8
+#EXTINF:0,panorama_cinema/index.m3u8
+http://50.23.65.8/live/panorama_cinema/index.m3u8
+#EXTINF:0,panorama_cinema_plus/index.m3u8
+http://50.23.65.8/live/panorama_cinema_plus/index.m3u8
+#EXTINF:0,panorama_comedy/index.m3u8
+http://50.23.65.8/live/panorama_comedy/index.m3u8
+#EXTINF:0,panorama_comedy_plus/index.m3u8
+http://50.23.65.8/live/panorama_comedy_plus/index.m3u8
+#EXTINF:0,panorama_drama_i/index.m3u8
+http://50.23.65.8/live/panorama_drama_i/index.m3u8
+#EXTINF:0,panorama_drama_i_plus/index.m3u8
+http://50.23.65.8/live/panorama_drama_i_plus/index.m3u8
+#EXTINF:0,panorama_drama_ii/index.m3u8
+http://50.23.65.8/live/panorama_drama_ii/index.m3u8
+#EXTINF:0,panorama_drama_ii_plus/index.m3u8
+http://50.23.65.8/live/panorama_drama_ii_plus/index.m3u8
+#EXTINF:0,panorama_film/index.m3u8
+http://50.23.65.8/live/panorama_film/index.m3u8
+#EXTINF:0,panorama_film_plus/index.m3u8
+http://50.23.65.8/live/panorama_film_plus/index.m3u8
+#EXTINF:0,PBC Palestine
+rtmp://vstream2.hadara.ps/pbc/pbc_1
+#EXTINF:0,Pezhvak Show
+rtmp://media.mohabat.tv/live_transcoder/_definst_/mp4:mohabat.stream_240p
+#EXTINF:0,Quran TV
+rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
+#EXTINF:0,rotana_cinema_plus/index.m3u8
+http://50.23.65.8/live/rotana_cinema_plus/index.m3u8
+#EXTINF:0,rotana_classic/index.m3u8
+http://50.23.65.8/live/rotana_classic/index.m3u8
+#EXTINF:0,rotana_clip/index.m3u8
+http://50.23.65.8/live/rotana_clip/index.m3u8
+#EXTINF:0,rotana_khalijiah/index.m3u8
+http://50.23.65.8/live/rotana_khalijiah/index.m3u8
+#EXTINF:0,rotana_khalijiah_plus/index.m3u8
+http://50.23.65.8/live/rotana_khalijiah_plus/index.m3u8
+#EXTINF:0,rotana_massriya/index.m3u8
+http://50.23.65.8/live/rotana_massriya/index.m3u8
+#EXTINF:0,rotana_massriya_plus/index.m3u8
+http://50.23.65.8/live/rotana_massriya_plus/index.m3u8
+#EXTINF:0,rotana_moussica/index.m3u8
+http://50.23.65.8/live/rotana_moussica/index.m3u8
+#EXTINF:0,Royatv
+http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
+#EXTINF:0,Russia Alyaum
+http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
+#EXTINF:0,russia_today/index.m3u8
+http://50.23.65.8/live/russia_today/index.m3u8
+#EXTINF:0,sada_el_balad/index.m3u8
+http://50.23.65.8/live/sada_el_balad/index.m3u8
+#EXTINF:0,sada_el_balad_drama/index.m3u8
+http://50.23.65.8/live/sada_el_balad_drama/index.m3u8
+#EXTINF:0,sada_el_balad_drama_plus/index.m3u8
+http://50.23.65.8/live/sada_el_balad_drama_plus/index.m3u8
+#EXTINF:0,sada_el_balad_drama_plus/index.m3u8
+http://50.23.65.8/live/sada_el_balad_drama_plus/index.m3u8
+#EXTINF:0,sada_el_balad_plus/index.m3u8
+http://50.23.65.8/live/sada_el_balad_plus/index.m3u8
+#EXTINF:0,sama_dubai/index.m3u8
+http://50.23.65.8/live/sama_dubai/index.m3u8
+#EXTINF:0,sat7_kids/index.m3u8
+http://50.23.65.8/live/sat7_kids/index.m3u8
+#EXTINF:0,SaudiSport
+http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Secretstv
+http://94.127.209.149:8080/secretsx/playlist.m3u8
+#EXTINF:0,set_el_bait/index.m3u8
+http://50.23.65.8/live/set_el_bait/index.m3u8
+#EXTINF:0,set_el_bait_plus/index.m3u8
+http://50.23.65.8/live/set_el_bait_plus/index.m3u8
+#EXTINF:0,sha3beyat/index.m3u8
+http://50.23.65.8/live/sha3beyat/index.m3u8
+#EXTINF:0,smile_of_a_child/index.m3u8
+http://50.23.65.8/live/smile_of_a_child/index.m3u8
+#EXTINF:0,Sport TV
+rtmp://stream2.joinvisions.net/jorlive/s1
+#EXTINF:0,Syria
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:0,Syria TV
+rtmp://82.137.248.16/Sat/SatLive3
+#EXTINF:0,syria_drama/index.m3u8
+http://50.23.65.8/live/syria_drama/index.m3u8
+#EXTINF:0,syria_sat/index.m3u8
+http://50.23.65.8/live/syria_sat/index.m3u8
+#EXTINF:0,Syrian Drama
+rtmp://82.137.248.21/Drama/DramaLive2
+#EXTINF:0,Syrian News
+rtmp://82.137.248.16/Snews/SnewsLive2
+#EXTINF:0,Talaqie TV
+rtmp://82.137.248.20/Talaqie/TalaqieLive1
+#EXTINF:0,time_action/index.m3u
+http://50.23.65.8/live/time_action/index.m3u
+#EXTINF:0,time_action_plus/index.m3u8
+http://50.23.65.8/live/time_action_plus/index.m3u8
+#EXTINF:0,time_cinema_2_plus/index.m3u8
+http://50.23.65.8/live/time_cinema_2_plus/index.m3u8
+#EXTINF:0,time_cinema_i_plus/index.m3u8
+http://50.23.65.8/live/time_cinema_i_plus/index.m3u8
+#EXTINF:0,time_comedy/index.m3u8
+http://50.23.65.8/live/time_comedy/index.m3u8
+#EXTINF:0,time_comedy_plus/index.m3u8
+http://50.23.65.8/live/time_comedy_plus/index.m3u8
+#EXTINF:0,time_drama/index.m3u8
+http://50.23.65.8/live/time_drama/index.m3u8
+#EXTINF:0,time_drama_plus/index.m3u8
+http://50.23.65.8/live/time_drama_plus/index.m3u8
+#EXTINF:0,time_ekhtarna_lak/index.m3u8
+http://50.23.65.8/live/time_ekhtarna_lak/index.m3u8
+#EXTINF:0,time_film/index.m3u8
+http://50.23.65.8/live/time_film/index.m3u8
+#EXTINF:0,time_film_plus/index.m3u8
+http://50.23.65.8/live/time_film_plus/index.m3u8
+#EXTINF:0,time_quran/index.m3u8
+http://50.23.65.8/live/time_quran/index.m3u8
+#EXTINF:0,time_taxi_plus/index.m3u8
+http://50.23.65.8/live/time_taxi_plus/index.m3u8
+#EXTINF:0,time_turki/index.m3u8
+http://50.23.65.8/live/time_turki/index.m3u8
+#EXTINF:0,time_turki_plus/index.m3u8
+http://50.23.65.8/live/time_turki_plus/index.m3u8
+#EXTINF:0,toktok_cinema/index.m3u8
+http://50.23.65.8/live/toktok_cinema/index.m3u8
+#EXTINF:0,top_movies/index.m3u8
+http://50.23.65.8/live/top_movies/index.m3u8
+#EXTINF:0,Z ***HasBahCa IPTV***
+http://bilgidiyari.net/m3u/turkiye.mp4
