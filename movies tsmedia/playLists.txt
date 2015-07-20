@@ -37,5 +37,5 @@
 {"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/allsports.m3u", "name": "[COLOR yellow]Join the fastest growing community for IPTV List[/COLOR]"},
 {"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/allsports.m3u", "name": "[COLOR yellow]Contact us on Facebook[/COLOR]"},
 {"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/allsports.m3u", "name": "[COLOR yellow]Visit us on our facebook page[/COLOR]"},
-{"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/allsports.m3u", "name": "[COLOR yellow]----------------------------------------------------------[/COLOR]"}
+{"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/allsports.m3u", "name": "----------------------------------------------------------"}
 ]
